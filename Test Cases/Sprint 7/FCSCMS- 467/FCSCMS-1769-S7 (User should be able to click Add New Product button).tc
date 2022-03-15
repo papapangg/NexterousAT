@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to click Add New Produst button</description>
+   <name>FCSCMS-1769-S7 (User should be able to click Add New Product button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f75af0f4-4ff6-4fea-83e1-e988c546b5a0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to Export Product grid</description>
+   <name>FCSCMS-1615-S6 (User should be able to Export Product grid)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f7f66ee-ad57-45e3-aab5-e86908d24fc5</testCaseGuid>
+</TestCaseEntity>

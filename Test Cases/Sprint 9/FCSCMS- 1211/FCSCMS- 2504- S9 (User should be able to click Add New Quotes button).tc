@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to click Add New Quotes button</description>
+   <name>FCSCMS- 2504- S9 (User should be able to click Add New Quotes button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d7c9da96-f4ff-46ce-bf46-e338862bc3ec</testCaseGuid>
+</TestCaseEntity>

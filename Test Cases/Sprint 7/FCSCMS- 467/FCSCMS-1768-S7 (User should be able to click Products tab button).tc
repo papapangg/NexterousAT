@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to click Products tab button</description>
+   <name>FCSCMS-1768-S7 (User should be able to click Products tab button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d719696c-9cb4-4b93-a824-951e40d1db25</testCaseGuid>
+</TestCaseEntity>

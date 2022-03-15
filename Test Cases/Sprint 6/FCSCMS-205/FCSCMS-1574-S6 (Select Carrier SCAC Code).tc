@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to search or select Carrier SCAC Code on the Type-in Search dropdown (Mandatory)</description>
+   <name>FCSCMS-1574-S6 (Select Carrier SCAC Code)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b654cf96-2437-4894-93d7-3bd75a171403</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user can click the 'Cancel' button for the 'Basic Information' tab</description>
+   <name>FCSCMS-1145-S5 (Click the Cancel button for the Basic Information tab)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c73c8560-ef87-4d37-82eb-d4ecd135c8d7</testCaseGuid>
+</TestCaseEntity>

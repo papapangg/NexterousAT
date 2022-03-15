@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to Select Approved ratio button as  Audit Preference</description>
+   <name>FCSCMS-1582-S6 (Select Approved Radio Button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf314418-1c1a-4fc7-9c74-6b23269dc66a</testCaseGuid>
+</TestCaseEntity>

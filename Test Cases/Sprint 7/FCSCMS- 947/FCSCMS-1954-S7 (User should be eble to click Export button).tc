@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be eble to click Export button</description>
+   <name>FCSCMS-1954-S7 (User should be eble to click Export button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a92fe5b4-dc47-49e7-9f98-4ef4c7215665</testCaseGuid>
+</TestCaseEntity>

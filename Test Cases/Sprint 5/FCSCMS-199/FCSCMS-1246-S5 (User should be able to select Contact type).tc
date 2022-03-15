@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to select Contact type</description>
+   <name>FCSCMS-1246-S5 (User should be able to select Contact type)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>97125b3d-de86-46ca-9284-695295ff50c2</testCaseGuid>
+</TestCaseEntity>

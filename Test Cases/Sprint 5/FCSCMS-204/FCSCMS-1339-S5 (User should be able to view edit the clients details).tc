@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to view/edit the client's details</description>
+   <name>FCSCMS-1339-S5 (User should be able to view edit the clients details)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>920a4585-e6ef-4ba3-bf6e-0a8b01185f3b</testCaseGuid>
+</TestCaseEntity>

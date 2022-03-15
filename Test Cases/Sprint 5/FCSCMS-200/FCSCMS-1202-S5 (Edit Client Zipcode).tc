@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to view/edit the client's zip code on the ZIP Code dropdown menu</description>
+   <name>FCSCMS-1202-S5 (Edit Client Zipcode)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0bff15d-9abf-431a-b1aa-a4d7e5b777fc</testCaseGuid>
+</TestCaseEntity>

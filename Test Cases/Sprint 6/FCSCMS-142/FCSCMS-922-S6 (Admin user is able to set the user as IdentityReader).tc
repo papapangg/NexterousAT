@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin user is able to set the user as IdentityReader</description>
+   <name>FCSCMS-922-S6 (Admin user is able to set the user as IdentityReader)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e4767b50-0bab-4df3-bebc-3fbb0935a090</testCaseGuid>
+</TestCaseEntity>

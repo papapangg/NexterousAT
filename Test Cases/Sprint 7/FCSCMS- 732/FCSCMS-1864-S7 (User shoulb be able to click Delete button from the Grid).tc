@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User shoulb be able to click Delete button from the Grid</description>
+   <name>FCSCMS-1864-S7 (User shoulb be able to click Delete button from the Grid)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9671ff1-2598-49d5-861b-a3236ab69ff7</testCaseGuid>
+</TestCaseEntity>

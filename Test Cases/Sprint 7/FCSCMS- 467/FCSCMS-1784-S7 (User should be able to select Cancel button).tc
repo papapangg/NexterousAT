@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to select Cancel button</description>
+   <name>FCSCMS-1784-S7 (User should be able to select Cancel button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6766d0b-70f8-4097-bf32-07b52fff4ae8</testCaseGuid>
+</TestCaseEntity>

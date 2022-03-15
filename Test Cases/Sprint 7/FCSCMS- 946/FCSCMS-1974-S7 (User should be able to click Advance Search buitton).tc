@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to click Advance Search buitton</description>
+   <name>FCSCMS-1974-S7 (User should be able to click Advance Search buitton)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ebfdb088-b9b5-418e-bc94-ea7db4caa346</testCaseGuid>
+</TestCaseEntity>

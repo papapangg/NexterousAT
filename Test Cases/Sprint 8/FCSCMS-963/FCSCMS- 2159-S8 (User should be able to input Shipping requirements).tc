@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to input Shipping requirements</description>
+   <name>FCSCMS- 2159-S8 (User should be able to input Shipping requirements)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e977bd75-213b-4f1b-b3bf-602213c46d38</testCaseGuid>
+</TestCaseEntity>

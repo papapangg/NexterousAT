@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User is ble to click Remember my username button</description>
+   <name>FCSCMS-273</name>
+   <tag>273</tag>
+   <comment></comment>
+   <testCaseGuid>e90af3f8-a49a-4062-b3e7-26fb16f5ba25</testCaseGuid>
+</TestCaseEntity>

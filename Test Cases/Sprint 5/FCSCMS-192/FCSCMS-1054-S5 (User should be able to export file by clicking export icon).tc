@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to export file by clicking export icon.</description>
+   <name>FCSCMS-1054-S5 (User should be able to export file by clicking export icon)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc71284c-1f9a-495f-b9d2-a47d32bcf841</testCaseGuid>
+</TestCaseEntity>

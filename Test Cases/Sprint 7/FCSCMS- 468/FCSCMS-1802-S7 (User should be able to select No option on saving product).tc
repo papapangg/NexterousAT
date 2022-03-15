@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to select No option on saving product</description>
+   <name>FCSCMS-1802-S7 (User should be able to select No option on saving product)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec603f1a-f104-47df-b4d1-de8da6dc46fb</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User is able to select Assign site address</description>
+   <name>FCSCMS-1249-S5 (User is able to select Assign site address)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2b4ab130-6786-451e-b7ed-999f9a64b837</testCaseGuid>
+</TestCaseEntity>

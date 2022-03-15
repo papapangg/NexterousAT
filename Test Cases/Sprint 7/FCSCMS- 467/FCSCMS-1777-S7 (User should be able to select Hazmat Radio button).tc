@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to select Hazmat Radio button</description>
+   <name>FCSCMS-1777-S7 (User should be able to select Hazmat Radio button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>52e3daf1-6089-4912-80d1-2b4deaf98621</testCaseGuid>
+</TestCaseEntity>

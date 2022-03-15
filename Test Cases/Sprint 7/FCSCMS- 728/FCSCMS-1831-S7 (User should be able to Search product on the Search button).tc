@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to Search product on the  Search button</description>
+   <name>FCSCMS-1831-S7 (User should be able to Search product on the Search button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce307f48-dc63-47a7-a9f9-1b67a51bc2af</testCaseGuid>
+</TestCaseEntity>

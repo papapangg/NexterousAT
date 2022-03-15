@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user can click the 'Cancel' button for the 'Contacts' tab</description>
+   <name>FCSCMS-1165-S5 (The user can click the Cancel button for the Contacts tab)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b89259fa-0438-4c4b-836c-6f2fd1050f48</testCaseGuid>
+</TestCaseEntity>

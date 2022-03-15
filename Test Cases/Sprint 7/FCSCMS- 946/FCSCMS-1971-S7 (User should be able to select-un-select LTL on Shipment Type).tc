@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to select/un-select LTL on Shipment Type</description>
+   <name>FCSCMS-1971-S7 (User should be able to select-un-select LTL on Shipment Type)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>77eedcb6-2f47-4fbe-bdb1-d447eb7e6de6</testCaseGuid>
+</TestCaseEntity>

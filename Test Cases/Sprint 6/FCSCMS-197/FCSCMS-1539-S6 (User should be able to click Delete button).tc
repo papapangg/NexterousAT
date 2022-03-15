@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to click View/Edit client-carrier association</description>
+   <name>FCSCMS-1539-S6 (User should be able to click Delete button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9e4cb6b2-648d-4d19-ad46-3dfa6a907809</testCaseGuid>
+</TestCaseEntity>

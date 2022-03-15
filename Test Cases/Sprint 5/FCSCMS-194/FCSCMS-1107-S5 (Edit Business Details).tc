@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to add/edit the client's business details on the Business Details field</description>
+   <name>FCSCMS-1107-S5 (Edit Business Details)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9018545-26cd-495e-a4f3-3fd72f5f33e4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to click hide button</description>
+   <name>FCSCMS-1998-S7 (User should be able to click hide button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c869d686-f3c4-45a7-9106-af1213252a2c</testCaseGuid>
+</TestCaseEntity>

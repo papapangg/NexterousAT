@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to click Quotes option from the left navigation panel</description>
+   <name>FCSCMS- 2140-S8 (User should be able to click Quotes option from the left navigation panel)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2e6ec539-530e-4bac-8f1d-5ac817d7b617</testCaseGuid>
+</TestCaseEntity>

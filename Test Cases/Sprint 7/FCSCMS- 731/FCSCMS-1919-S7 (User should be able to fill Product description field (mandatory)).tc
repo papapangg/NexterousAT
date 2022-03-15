@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to fill Product description field (mandatory)</description>
+   <name>FCSCMS-1919-S7 (User should be able to fill Product description field (mandatory))</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af130547-bbcf-48c4-a114-451a5898edcc</testCaseGuid>
+</TestCaseEntity>

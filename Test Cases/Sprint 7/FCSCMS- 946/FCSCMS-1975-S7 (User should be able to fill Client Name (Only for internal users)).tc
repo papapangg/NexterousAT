@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to fill Client Name (Only for internal users)</description>
+   <name>FCSCMS-1975-S7 (User should be able to fill Client Name (Only for internal users))</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3c1f41c-701f-460a-b4b1-7e1271d45558</testCaseGuid>
+</TestCaseEntity>

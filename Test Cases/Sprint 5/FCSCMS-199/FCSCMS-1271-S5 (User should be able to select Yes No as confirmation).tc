@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to select Yes/No as confirmation</description>
+   <name>FCSCMS-1271-S5 (User should be able to select Yes No as confirmation)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b72f7423-13a6-450c-8bdb-df8979ce0ab1</testCaseGuid>
+</TestCaseEntity>

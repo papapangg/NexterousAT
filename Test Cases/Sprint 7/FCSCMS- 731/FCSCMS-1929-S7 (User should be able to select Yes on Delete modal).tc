@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to select Yes on Delete modal</description>
+   <name>FCSCMS-1929-S7 (User should be able to select Yes on Delete modal)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae303413-ba9d-4935-842d-0c0634867952</testCaseGuid>
+</TestCaseEntity>

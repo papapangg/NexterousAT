@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to click Carriers tab button</description>
+   <name>FCSCMS-1597-S6 (User should be able to click Carriers tab button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e76a1466-1859-4f04-b694-ff7682ce55b8</testCaseGuid>
+</TestCaseEntity>

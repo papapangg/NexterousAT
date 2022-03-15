@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to search for the client's name in the quick search tab</description>
+   <name>FCSCMS-1275-S5 (User should be able to search for the clients name in the quick search tab)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c085dcb0-5e96-4565-ae08-a1df1786a504</testCaseGuid>
+</TestCaseEntity>

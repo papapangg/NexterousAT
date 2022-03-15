@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to add the client's IRS number on the IRS Number field</description>
+   <name>FCSCMS-1108-S5 (Edit IRS Number)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad6de082-a068-4da3-baff-0ad5600d2461</testCaseGuid>
+</TestCaseEntity>

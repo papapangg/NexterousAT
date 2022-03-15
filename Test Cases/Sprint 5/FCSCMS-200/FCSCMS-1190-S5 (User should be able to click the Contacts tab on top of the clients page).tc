@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to click the Contacts tab on top of the clients page</description>
+   <name>FCSCMS-1190-S5 (User should be able to click the Contacts tab on top of the clients page)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>adf4a5af-0f28-4aed-a391-a019dabd90b4</testCaseGuid>
+</TestCaseEntity>

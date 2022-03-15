@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to click City dropdown button</description>
+   <name>FCSCMS-1360-S5 (User should be able to click City dropdown button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5459639-62b7-4298-b9c4-4dc26b399cec</testCaseGuid>
+</TestCaseEntity>

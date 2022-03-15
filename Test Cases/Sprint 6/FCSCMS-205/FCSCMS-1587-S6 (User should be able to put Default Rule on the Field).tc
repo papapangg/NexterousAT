@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to put Default Rule on the Field</description>
+   <name>FCSCMS-1587-S6 (User should be able to put Default Rule on the Field)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f008962e-cf2b-42b1-90b2-ba7236c6b4d7</testCaseGuid>
+</TestCaseEntity>

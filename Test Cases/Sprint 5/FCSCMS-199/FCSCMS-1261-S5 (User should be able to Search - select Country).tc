@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to Search / select Country</description>
+   <name>FCSCMS-1261-S5 (User should be able to Search - select Country)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc7da264-5079-4cd7-9874-195b65dcaa0f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to search clients</description>
+   <name>FCSCMS-1546-S6 (User should be able to search clients)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>06793d05-f92e-4228-ba71-d3f26a3f85b6</testCaseGuid>
+</TestCaseEntity>

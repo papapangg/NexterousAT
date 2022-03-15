@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to user pagination widget number</description>
+   <name>FCSCMS-1808-S7 (User should be able to user pagination widget number)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7fb7e793-63fc-4643-922e-cbad9a4854f9</testCaseGuid>
+</TestCaseEntity>

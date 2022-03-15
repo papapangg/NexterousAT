@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to click View/Edit button</description>
+   <name>FCSCMS-1279-S5 (User should be able to click View -Edit button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5f9f186-92e1-46b1-ab79-5a88a9b5cc09</testCaseGuid>
+</TestCaseEntity>

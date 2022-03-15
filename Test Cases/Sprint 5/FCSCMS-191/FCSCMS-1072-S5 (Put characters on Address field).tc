@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to put characters on Address field</description>
+   <name>FCSCMS-1072-S5 (Put characters on Address field)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bfccd638-1556-4008-b44b-3ca57b3de511</testCaseGuid>
+</TestCaseEntity>

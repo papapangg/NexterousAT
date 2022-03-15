@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to Cancel process</description>
+   <name>FCSCMS-1344-S5 (User should be able to Cancel process)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2eb0b94-5e5f-433e-a162-22c8753fc981</testCaseGuid>
+</TestCaseEntity>

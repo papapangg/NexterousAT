@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to click View/Edit  Product button</description>
+   <name>FCSCMS-1918-S7 (User should be able to click View-Edit Product button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2c89229d-63a4-4dff-835e-07242736ae46</testCaseGuid>
+</TestCaseEntity>

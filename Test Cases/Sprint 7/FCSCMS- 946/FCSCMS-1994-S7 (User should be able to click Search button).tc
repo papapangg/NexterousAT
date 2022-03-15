@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to click Search button</description>
+   <name>FCSCMS-1994-S7 (User should be able to click Search button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6168adc2-928a-4669-8fe6-92a40cf320ed</testCaseGuid>
+</TestCaseEntity>

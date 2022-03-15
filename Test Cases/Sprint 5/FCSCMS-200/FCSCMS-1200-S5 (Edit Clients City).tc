@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to view/edit the client's City on the City dropdown menu</description>
+   <name>FCSCMS-1200-S5 (Edit Clients City)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fcf2e33d-3d93-4e1b-ab2e-b5c12b684ee8</testCaseGuid>
+</TestCaseEntity>

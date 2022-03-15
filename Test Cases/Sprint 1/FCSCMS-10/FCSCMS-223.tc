@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User is able to click Forgot password button</description>
+   <name>FCSCMS-223</name>
+   <tag>223</tag>
+   <comment></comment>
+   <testCaseGuid>fa90ca30-c48c-452e-9a79-8b9a27fb2895</testCaseGuid>
+</TestCaseEntity>

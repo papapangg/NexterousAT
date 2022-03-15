@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to input Origin and Destination Location</description>
+   <name>FCSCMS- 2146-S8 (User should be able to input Origin and Destination Location)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6f94e617-5a1f-46f6-8c69-392c093da734</testCaseGuid>
+</TestCaseEntity>

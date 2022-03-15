@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to fill Extension field</description>
+   <name>FCSCMS-1370-S5 (User should be able to fill Extension field)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b5cc1315-5ae0-4902-bf4c-d4114ffb08ad</testCaseGuid>
+</TestCaseEntity>

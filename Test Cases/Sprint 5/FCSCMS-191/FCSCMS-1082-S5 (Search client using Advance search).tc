@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should able to search client using Advance search</description>
+   <name>FCSCMS-1082-S5 (Search client using Advance search)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>20ab3c60-109f-4520-ba4e-72e2531d92b6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to search or select Site Name on the Type-in Search dropdown</description>
+   <name>FCSCMS-1577-S6 (Select Site Name)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2ede011-cebe-4cb5-bd28-9f461b14e8c6</testCaseGuid>
+</TestCaseEntity>

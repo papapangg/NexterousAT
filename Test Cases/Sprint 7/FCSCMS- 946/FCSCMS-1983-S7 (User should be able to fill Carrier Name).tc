@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to fill Carrier Name</description>
+   <name>FCSCMS-1983-S7 (User should be able to fill Carrier Name)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd4c5cd0-2b86-49ec-82ef-8021e752a771</testCaseGuid>
+</TestCaseEntity>

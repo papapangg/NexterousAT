@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to Select Yes on export process and have the Excel copy of Product grid</description>
+   <name>FCSCMS-1812-S7 (User should be able to export product file upon clicking yes button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b4eaa4e7-5bed-4728-be7d-411dbcb9de65</testCaseGuid>
+</TestCaseEntity>

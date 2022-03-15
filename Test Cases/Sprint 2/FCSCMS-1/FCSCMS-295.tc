@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should fill in Privilege Group Description</description>
+   <name>FCSCMS-295</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>687e5b4c-a765-4f9f-8c68-9bdcd8ac6f57</testCaseGuid>
+</TestCaseEntity>

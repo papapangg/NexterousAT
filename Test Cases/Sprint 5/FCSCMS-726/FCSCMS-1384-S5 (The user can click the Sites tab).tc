@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user can click the 'Sites' tab</description>
+   <name>FCSCMS-1384-S5 (The user can click the Sites tab)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>efc18da3-f88c-457f-b660-4b4646f085ce</testCaseGuid>
+</TestCaseEntity>

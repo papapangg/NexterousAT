@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to select Save button</description>
+   <name>FCSCMS-1780-S7 (User should be able to select Save button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d48d4c21-84fd-4fd8-ab78-a9c5fe354583</testCaseGuid>
+</TestCaseEntity>

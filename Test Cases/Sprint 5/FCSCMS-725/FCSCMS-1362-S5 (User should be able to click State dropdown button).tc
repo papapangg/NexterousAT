@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to click State dropdown button</description>
+   <name>FCSCMS-1362-S5 (User should be able to click State dropdown button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>474ff652-3d5c-44f0-bb40-49ed8d3e6a99</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to fill password field</description>
+   <name>FCSCMS-218</name>
+   <tag>218</tag>
+   <comment></comment>
+   <testCaseGuid>08794a62-1a4a-42a6-b19b-694eb9e1a758</testCaseGuid>
+</TestCaseEntity>

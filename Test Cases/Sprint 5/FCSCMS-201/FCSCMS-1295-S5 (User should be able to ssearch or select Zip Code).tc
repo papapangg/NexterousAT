@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to ssearch or select Zip Code (Mandatory)</description>
+   <name>FCSCMS-1295-S5 (User should be able to ssearch or select Zip Code)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a829acb8-1627-42f1-b8b3-ce8c3393372a</testCaseGuid>
+</TestCaseEntity>

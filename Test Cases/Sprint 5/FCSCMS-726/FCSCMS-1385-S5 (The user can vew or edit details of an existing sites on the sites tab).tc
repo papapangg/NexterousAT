@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user can vew or edit details of an existing sites on the 'sites' tab</description>
+   <name>FCSCMS-1385-S5 (The user can vew or edit details of an existing sites on the sites tab)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>abea282f-5aad-4036-9653-1854b6f2a03d</testCaseGuid>
+</TestCaseEntity>

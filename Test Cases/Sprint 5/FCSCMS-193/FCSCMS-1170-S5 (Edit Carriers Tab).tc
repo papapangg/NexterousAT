@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user can vew or edit details of an existing Carrier on the 'Carriers' tab</description>
+   <name>FCSCMS-1170-S5 (Edit Carriers Tab)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c7d74114-3795-4959-9bd3-5a6a6c3d3552</testCaseGuid>
+</TestCaseEntity>

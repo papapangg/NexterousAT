@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin user is able to click Edit button</description>
+   <name>FCSCMS-930-S6 (Admin user is able to click Edit button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd44e8c8-2f07-4249-b0d1-4b49db5c76fc</testCaseGuid>
+</TestCaseEntity>

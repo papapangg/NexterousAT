@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to fill Hazmat Description field</description>
+   <name>FCSCMS-1854-S7 (User should be able to fill Hazmat Description field)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d15c599d-8500-4583-a6fe-aaded7bffb19</testCaseGuid>
+</TestCaseEntity>

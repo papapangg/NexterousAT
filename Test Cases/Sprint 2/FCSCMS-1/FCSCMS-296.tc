@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should Select a Privilege Group Status</description>
+   <name>FCSCMS-296</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c34df46c-79b9-4430-834f-eb7bd568a568</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to put characters on Search bar</description>
+   <name>FCSCMS-1594-S6 (User should be able to put characters on Search bar)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8864c99b-4cbc-4d65-9d4b-4c76aa9fe3dd</testCaseGuid>
+</TestCaseEntity>

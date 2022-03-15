@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to fill Mobile field</description>
+   <name>FCSCMS-1371-S5 (User should be able to fill Mobile field)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6856a2a8-7e68-4814-85c8-1ca6761b946e</testCaseGuid>
+</TestCaseEntity>

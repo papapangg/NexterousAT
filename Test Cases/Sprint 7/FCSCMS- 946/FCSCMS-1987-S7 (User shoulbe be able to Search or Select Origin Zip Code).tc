@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User shoulbe be able to Search or Select Origin Zip Code</description>
+   <name>FCSCMS-1987-S7 (User shoulbe be able to Search or Select Origin Zip Code)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d29e1d80-3ed0-438a-a019-6a0c745f0c89</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to fill Address Line 2 field</description>
+   <name>FCSCMS-1292-S5 (User should be able to fill Address Line 2 field)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5b10299-3bb9-427d-b8cc-749645e829e1</testCaseGuid>
+</TestCaseEntity>

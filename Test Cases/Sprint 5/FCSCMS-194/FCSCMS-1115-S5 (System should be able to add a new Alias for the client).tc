@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>System should be able to add a new Alias for the client</description>
+   <name>FCSCMS-1115-S5 (System should be able to add a new Alias for the client)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cbecfdcb-f820-4bce-909b-9436a7840197</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The user can click on the 'Add New Client' button</description>
+   <name>FCSCMS-1139-S5 (Click on the Add New Client button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc0ff236-12a4-46e2-81e6-39a1ce6ba8a1</testCaseGuid>
+</TestCaseEntity>

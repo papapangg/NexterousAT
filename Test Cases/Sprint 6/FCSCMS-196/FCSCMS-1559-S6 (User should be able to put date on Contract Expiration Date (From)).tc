@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to put date on Contract Expiration Date (From)</description>
+   <name>FCSCMS-1559-S6 (User should be able to put date on Contract Expiration Date (From))</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2f3e2b86-2af9-428d-a76c-8b3f67d8ad98</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User should be able to click Delete Qoute button</description>
+   <name>FCSCMS-1951-S7 (User should be able to click Delete Qoute button)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb0f10e7-b50c-492e-992b-335f228ba6ce</testCaseGuid>
+</TestCaseEntity>
