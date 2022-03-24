@@ -3,7 +3,7 @@
    <description></description>
    <name>Download_Image</name>
    <tag></tag>
-   <elementGuidId>eef3b5dd-42f7-4f85-8b74-4bf2dc375c77</elementGuidId>
+   <elementGuidId>ed26424f-400f-4bac-b666-d3e4317740c9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

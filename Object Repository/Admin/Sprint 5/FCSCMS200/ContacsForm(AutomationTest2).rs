@@ -3,7 +3,7 @@
    <description></description>
    <name>ContacsForm(AutomationTest2)</name>
    <tag></tag>
-   <elementGuidId>38ee0fd2-6ac6-4699-ba2f-e223369e8d0a</elementGuidId>
+   <elementGuidId>fe15e9d3-8315-44f1-9032-03c5eef91517</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

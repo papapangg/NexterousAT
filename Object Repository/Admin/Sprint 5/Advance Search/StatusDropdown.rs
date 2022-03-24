@@ -3,15 +3,15 @@
    <description></description>
    <name>StatusDropdown</name>
    <tag></tag>
-   <elementGuidId>0c513b78-378a-4054-8470-00545d4e1315</elementGuidId>
+   <elementGuidId>7a29fe0f-bf7a-4eb8-b34b-f444ef2fcc33</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#Dropdown1</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//select[@id='Dropdown1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Dropdown1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

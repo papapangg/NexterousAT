@@ -3,7 +3,7 @@
    <description></description>
    <name>Search(City)</name>
    <tag></tag>
-   <elementGuidId>6bbb322d-4007-4ac6-b17a-2831adf7f26f</elementGuidId>
+   <elementGuidId>23665ac0-14d9-41be-b173-5b9551f593dc</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

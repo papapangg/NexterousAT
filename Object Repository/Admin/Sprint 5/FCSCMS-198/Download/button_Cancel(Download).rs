@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Cancel(Download)</name>
    <tag></tag>
-   <elementGuidId>1c770fa2-2537-4185-9720-0f62bc29145d</elementGuidId>
+   <elementGuidId>26ad821b-a6eb-4601-8f5c-c100456e9573</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

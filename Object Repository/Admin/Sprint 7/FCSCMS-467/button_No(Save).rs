@@ -3,18 +3,22 @@
    <description></description>
    <name>button_No(Save)</name>
    <tag></tag>
-   <elementGuidId>529234b4-cf71-4698-8879-96377fb53dc9</elementGuidId>
+   <elementGuidId>da38d80e-5ca7-40f6-b490-756d8469f25b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.btn.border-radius-rounded</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'No' or . = 'No')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>/html/body/div[3]/div/div/div/div/span[2]/div/button[1]</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.border-radius-rounded</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

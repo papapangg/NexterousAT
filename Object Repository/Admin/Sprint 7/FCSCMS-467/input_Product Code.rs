@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Product Code</name>
    <tag></tag>
-   <elementGuidId>eff3e0b7-1244-4e1e-8e59-9b56ba83acaf</elementGuidId>
+   <elementGuidId>a9445132-1741-4489-af1e-1de544fb4781</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b18-b23-Input_ProductCode</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b18-b23-Input_ProductCode']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b18-b23-Input_ProductCode</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

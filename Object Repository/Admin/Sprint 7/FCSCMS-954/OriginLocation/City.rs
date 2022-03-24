@@ -3,15 +3,15 @@
    <description></description>
    <name>City</name>
    <tag></tag>
-   <elementGuidId>d1b75e94-74ad-48a7-b365-774f0f24714c</elementGuidId>
+   <elementGuidId>74397615-80bd-45d7-a236-66157b760d84</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>div.choices__inner</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>/html/body/div[1]/div/div/div/div/div/div/div/div[3]/div/div/span[1]/div/span[1]/div/div[1]/div[3]/div[1]/div/div[3]/div/div[1]/div/div/form/span/div/div/form/div[1]/div/div/div[1]/div/div/div/div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.choices__inner</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

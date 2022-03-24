@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Weight</name>
    <tag></tag>
-   <elementGuidId>e84737d1-4c3c-4dfa-be6a-fb54a4def0ef</elementGuidId>
+   <elementGuidId>903674a2-77af-44dc-b1f9-8564cb56e220</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-Input_Weight</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b3-Input_Weight']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-Input_Weight</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

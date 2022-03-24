@@ -3,15 +3,15 @@
    <description></description>
    <name>Automated</name>
    <tag></tag>
-   <elementGuidId>ecb2ee3d-c236-4baf-b481-f1cc2a7306af</elementGuidId>
+   <elementGuidId>b7ebf2ee-a69d-498a-a8a2-6cbb0051cbd2</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b16-b31-l1-274_1-Methods-input</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b16-b31-l1-274_1-Methods-input']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b16-b31-l1-274_1-Methods-input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

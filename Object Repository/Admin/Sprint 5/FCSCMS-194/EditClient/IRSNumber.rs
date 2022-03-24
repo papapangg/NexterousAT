@@ -3,15 +3,15 @@
    <description></description>
    <name>IRSNumber</name>
    <tag></tag>
-   <elementGuidId>c4b70b36-d04c-400b-b708-3d65b152b862</elementGuidId>
+   <elementGuidId>7e9f551a-d60a-4ef8-b4a2-ff271674600a</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b10-Input_IRSNumber</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b10-Input_IRSNumber']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b10-Input_IRSNumber</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

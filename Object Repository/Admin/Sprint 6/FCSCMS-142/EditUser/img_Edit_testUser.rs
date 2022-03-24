@@ -3,7 +3,7 @@
    <description></description>
    <name>img_Edit_testUser</name>
    <tag></tag>
-   <elementGuidId>438788cd-6245-4558-98d3-4012f084da35</elementGuidId>
+   <elementGuidId>636698fd-e609-4245-b2b8-8557f140cf08</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

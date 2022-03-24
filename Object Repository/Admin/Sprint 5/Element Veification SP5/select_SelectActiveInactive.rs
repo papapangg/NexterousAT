@@ -3,15 +3,15 @@
    <description></description>
    <name>select_SelectActiveInactive</name>
    <tag></tag>
-   <elementGuidId>2a4157f8-118e-43de-835f-949089d51189</elementGuidId>
+   <elementGuidId>0af5f604-c5fe-4e02-8366-3658835eb381</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#Dropdown1</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//select[@id='Dropdown1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Dropdown1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

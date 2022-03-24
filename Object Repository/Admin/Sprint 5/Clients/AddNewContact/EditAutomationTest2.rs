@@ -3,7 +3,7 @@
    <description></description>
    <name>EditAutomationTest2</name>
    <tag></tag>
-   <elementGuidId>343dc363-c8b6-41f4-ab32-82915f12e09a</elementGuidId>
+   <elementGuidId>5531260f-a1c5-4e79-a6a1-10fe4bd4063c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

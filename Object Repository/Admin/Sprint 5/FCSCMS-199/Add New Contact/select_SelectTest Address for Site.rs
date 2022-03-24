@@ -3,7 +3,7 @@
    <description></description>
    <name>select_SelectTest Address for Site</name>
    <tag></tag>
-   <elementGuidId>2fca130b-1da0-4c8c-846a-59bd014721bc</elementGuidId>
+   <elementGuidId>30e8413e-d3f6-4bbf-8695-16cf35d9c483</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

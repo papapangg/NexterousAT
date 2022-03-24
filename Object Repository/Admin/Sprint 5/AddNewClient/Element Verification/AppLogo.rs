@@ -3,7 +3,7 @@
    <description></description>
    <name>AppLogo</name>
    <tag></tag>
-   <elementGuidId>1a874a2f-08ba-438e-99b7-30ce184bff9e</elementGuidId>
+   <elementGuidId>7eb70574-609a-4444-ac16-bbf05f3f1914</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

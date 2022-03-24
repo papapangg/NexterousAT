@@ -3,14 +3,14 @@
    <description></description>
    <name>Delete_PGN</name>
    <tag></tag>
-   <elementGuidId>2232de6a-8929-4d0c-acca-a4cacdfb3034</elementGuidId>
+   <elementGuidId>2c5eeabc-f91e-4b87-a79c-9d14180cfa41</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='List']/div[4]/table/tbody/tr/td[6]/a[2]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

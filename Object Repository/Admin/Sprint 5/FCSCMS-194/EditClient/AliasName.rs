@@ -3,15 +3,15 @@
    <description></description>
    <name>AliasName</name>
    <tag></tag>
-   <elementGuidId>4f6044cf-7cc9-4b42-b884-b57634b8ca96</elementGuidId>
+   <elementGuidId>7fee6688-4727-40f4-a991-3aca7051ccc1</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b10-Input_AliasesName</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b10-Input_AliasesName']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b10-Input_AliasesName</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

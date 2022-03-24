@@ -3,15 +3,15 @@
    <description></description>
    <name>div_Download</name>
    <tag></tag>
-   <elementGuidId>38badb8b-55c3-4a50-9df8-fc0b4abe18ee</elementGuidId>
+   <elementGuidId>a0dc0d6c-d5b6-479d-b06d-138213087d95</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>div.download-format-custom</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='b16-$b25']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.download-format-custom</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

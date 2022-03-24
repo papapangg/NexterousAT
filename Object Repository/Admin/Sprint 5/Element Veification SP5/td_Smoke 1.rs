@@ -3,14 +3,14 @@
    <description></description>
    <name>td_Smoke 1</name>
    <tag></tag>
-   <elementGuidId>f086677b-9cd2-4c56-8555-682951ccace0</elementGuidId>
+   <elementGuidId>70963551-0e55-44f7-90b7-39d255644704</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='GridContainer']/div[4]/table/tbody/tr/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

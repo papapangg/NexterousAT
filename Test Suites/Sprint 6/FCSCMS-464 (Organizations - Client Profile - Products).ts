@@ -10,7 +10,7 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>5f466fab-f165-4e23-ab62-7bb411482bc1</testSuiteGuid>
+   <testSuiteGuid>96868daf-4852-49f3-852d-8bc655ba27f7</testSuiteGuid>
    <testCaseLink>
       <guid>a463afa7-de6e-46f9-a016-718227b2f28a</guid>
       <isReuseDriver>false</isReuseDriver>

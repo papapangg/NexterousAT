@@ -3,15 +3,15 @@
    <description></description>
    <name>Product 1_Edit</name>
    <tag></tag>
-   <elementGuidId>5b831ace-739b-4a0d-8617-53b5522743e8</elementGuidId>
+   <elementGuidId>ba11a4e8-059f-49c8-80dd-9a43a476ee78</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div[2]/div[3]/table/tbody/tr[1]/td[1]/div/div/div[1]/div/a/img</value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value>#b3-l2_0-357_8-b19-Column1 > div.text-align-center > a > img</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='b3-l2_0-357_8-b19-Column1']/div/a/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

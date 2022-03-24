@@ -3,15 +3,15 @@
    <description></description>
    <name>BusinessEndTime</name>
    <tag></tag>
-   <elementGuidId>c5c4c8d2-1212-48ae-a9ed-b3166af6fce6</elementGuidId>
+   <elementGuidId>50352650-35bd-40c5-b29b-c1a0c7d240f2</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b12-b8-Input_BusinessEndTime</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b12-b8-Input_BusinessEndTime']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b12-b8-Input_BusinessEndTime</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -3,15 +3,15 @@
    <description></description>
    <name>FileName(Export)</name>
    <tag></tag>
-   <elementGuidId>c22940f4-37c2-4a56-a8b8-cabf2e83ec03</elementGuidId>
+   <elementGuidId>c43bc50b-e669-403a-b141-7dd20ce6631f</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-b14-b1-b1-Input_FileName</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b3-b14-b1-b1-Input_FileName']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-b14-b1-b1-Input_FileName</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

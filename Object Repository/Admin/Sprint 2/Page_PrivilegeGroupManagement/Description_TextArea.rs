@@ -3,15 +3,15 @@
    <description></description>
    <name>Description_TextArea</name>
    <tag></tag>
-   <elementGuidId>8c695b87-8d29-4b8d-bc77-dc693bcf9259</elementGuidId>
+   <elementGuidId>0137b6ef-4c5b-4134-b19e-ce0f3f8da25f</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#TextArea_Description2</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//textarea[@id='TextArea_Description2']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#TextArea_Description2</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

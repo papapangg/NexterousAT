@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Clear</name>
    <tag></tag>
-   <elementGuidId>5814cfd1-57cc-4c0b-97ef-ce9ec153cec0</elementGuidId>
+   <elementGuidId>8f9b457d-db8f-4347-a9fa-80f5da0b9a84</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

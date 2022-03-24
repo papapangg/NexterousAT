@@ -3,18 +3,22 @@
    <description></description>
    <name>button_No(Cancel)</name>
    <tag></tag>
-   <elementGuidId>3bcc7f82-996b-4b97-b4ac-88c5c1df9d27</elementGuidId>
+   <elementGuidId>7d68dada-b859-49c3-b11e-fe506f9a6e95</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.btn.border-radius-rounded</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'No' or . = 'No')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>/html/body/div[3]/div/div/div/div/span[2]/div/button[1]</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.border-radius-rounded</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

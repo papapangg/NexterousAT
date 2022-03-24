@@ -3,14 +3,14 @@
    <description></description>
    <name>a_Clients</name>
    <tag></tag>
-   <elementGuidId>4e1c2d82-d5f3-4e3e-a184-f464b51cdcca</elementGuidId>
+   <elementGuidId>b1861404-2b83-4ef4-ba11-7f5735c9949d</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>/html/body/div[1]/div/div/div/div/aside/div/div/nav/div[3]/div/div[1]/span[4]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

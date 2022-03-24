@@ -3,7 +3,7 @@
    <description></description>
    <name>Extension</name>
    <tag></tag>
-   <elementGuidId>7bf7cc1e-8b32-4e0c-a4ba-20a754873753</elementGuidId>
+   <elementGuidId>d1c62f6d-5004-4b93-84c4-784b8bf131e5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

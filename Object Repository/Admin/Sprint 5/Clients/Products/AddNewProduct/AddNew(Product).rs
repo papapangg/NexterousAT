@@ -3,7 +3,7 @@
    <description></description>
    <name>AddNew(Product)</name>
    <tag></tag>
-   <elementGuidId>99dfcfaf-355c-4f8c-8a76-7a171f3b57a8</elementGuidId>
+   <elementGuidId>a71025ec-fa77-4b5c-84ed-6a03d95b8bc4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

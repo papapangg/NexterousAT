@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Get Quote</name>
    <tag></tag>
-   <elementGuidId>55ad61e5-4ffa-4b16-adc6-75a80d8f5cf2</elementGuidId>
+   <elementGuidId>26751669-df25-4dc8-99a7-16cc91d7f78b</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>button.btn.btn-secondary.btn-cancel</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-secondary.btn-cancel</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

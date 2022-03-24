@@ -3,10 +3,11 @@
    <description></description>
    <name>span_Legal,Invoicing,Funds Requests</name>
    <tag></tag>
-   <elementGuidId>5911d144-71ac-4ace-954a-97c0ae8d1fa0</elementGuidId>
+   <elementGuidId>f470a2bc-f97b-43ea-9fce-2cd724b71878</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>

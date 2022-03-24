@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Add New Association</name>
    <tag></tag>
-   <elementGuidId>5fd17ced-6c07-41f4-9066-9f639c827393</elementGuidId>
+   <elementGuidId>5094f556-597f-48b3-90a4-08ff098e8a27</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

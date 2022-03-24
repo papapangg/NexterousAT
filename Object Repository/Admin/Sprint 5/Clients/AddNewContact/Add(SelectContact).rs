@@ -3,7 +3,7 @@
    <description></description>
    <name>Add(SelectContact)</name>
    <tag></tag>
-   <elementGuidId>b3e646db-502e-4efb-b533-694fd8069a68</elementGuidId>
+   <elementGuidId>f1d2e44f-6ef9-4028-b244-b07540313490</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

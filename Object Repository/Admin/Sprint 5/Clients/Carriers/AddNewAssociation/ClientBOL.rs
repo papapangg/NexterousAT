@@ -3,7 +3,7 @@
    <description></description>
    <name>ClientBOL</name>
    <tag></tag>
-   <elementGuidId>3211b316-7498-40a2-8495-43df22c34dd4</elementGuidId>
+   <elementGuidId>242cd7d5-9fec-427e-bcfb-ae6c6d3fddb3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

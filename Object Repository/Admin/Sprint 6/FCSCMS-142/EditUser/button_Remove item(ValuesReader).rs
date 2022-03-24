@@ -3,10 +3,11 @@
    <description></description>
    <name>button_Remove item(ValuesReader)</name>
    <tag></tag>
-   <elementGuidId>8e679c8c-9299-466e-80b1-95675b738bb3</elementGuidId>
+   <elementGuidId>83be3a7d-202b-49ce-9aa0-c383c04866ad</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>

@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Add New Quote</name>
    <tag></tag>
-   <elementGuidId>a3882586-21ee-4e8b-a00d-9d4d8df78284</elementGuidId>
+   <elementGuidId>a9fde825-f137-448e-83e0-26007be4f592</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-AddNewRecord</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//button[@id='b3-AddNewRecord']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-AddNewRecord</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

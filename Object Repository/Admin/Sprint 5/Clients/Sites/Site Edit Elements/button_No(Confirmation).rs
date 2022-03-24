@@ -3,7 +3,7 @@
    <description></description>
    <name>button_No(Confirmation)</name>
    <tag></tag>
-   <elementGuidId>788aab5f-ab4f-4d43-99ed-0cae6d8cb057</elementGuidId>
+   <elementGuidId>705fb98b-f0aa-4b67-a699-0b73ecbf958f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

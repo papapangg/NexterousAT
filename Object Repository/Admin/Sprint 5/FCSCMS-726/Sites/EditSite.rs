@@ -3,7 +3,7 @@
    <description></description>
    <name>EditSite</name>
    <tag></tag>
-   <elementGuidId>7e205bfe-2d80-4030-9cce-a0a53f6245aa</elementGuidId>
+   <elementGuidId>1d75ec83-83ea-49b8-9275-9f50ad947a6d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

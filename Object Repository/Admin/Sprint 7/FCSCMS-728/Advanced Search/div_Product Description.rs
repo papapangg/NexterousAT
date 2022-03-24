@@ -3,14 +3,15 @@
    <description></description>
    <name>div_Product Description</name>
    <tag></tag>
-   <elementGuidId>b46f6566-bb94-4942-bbf1-bca1e25caf65</elementGuidId>
+   <elementGuidId>a09cc7d6-04ec-4a6b-80f0-64645b348c23</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>/html/body/div[1]/div/div/div/div/div/div/div/div[3]/div/span/div/form/div[1]/div/div[4]/div/div/div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

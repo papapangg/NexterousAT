@@ -3,7 +3,7 @@
    <description></description>
    <name>EditARFW</name>
    <tag></tag>
-   <elementGuidId>e36df48d-9aa1-4db2-aaae-4cefead121f8</elementGuidId>
+   <elementGuidId>8a4744b8-842f-4125-bf55-1b2c17ba981d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

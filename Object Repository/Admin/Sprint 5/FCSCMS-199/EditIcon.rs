@@ -3,7 +3,7 @@
    <description></description>
    <name>EditIcon</name>
    <tag></tag>
-   <elementGuidId>e193b13c-452a-4d7d-bc9f-d307f583397b</elementGuidId>
+   <elementGuidId>d7544b09-227f-4fcc-8e13-8d74a47c3695</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

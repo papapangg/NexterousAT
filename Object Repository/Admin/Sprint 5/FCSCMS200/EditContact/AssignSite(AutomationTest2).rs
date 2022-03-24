@@ -3,7 +3,7 @@
    <description></description>
    <name>AssignSite(AutomationTest2)</name>
    <tag></tag>
-   <elementGuidId>81619f08-e628-4708-9410-d30ca2c3d325</elementGuidId>
+   <elementGuidId>4b7bfe96-6bcf-463b-9d0c-a618c36aa4a0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

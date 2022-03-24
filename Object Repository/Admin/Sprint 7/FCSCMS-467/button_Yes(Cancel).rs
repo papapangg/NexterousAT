@@ -3,18 +3,22 @@
    <description></description>
    <name>button_Yes(Cancel)</name>
    <tag></tag>
-   <elementGuidId>583767f5-bd15-4de8-84d1-b0d5f2766f21</elementGuidId>
+   <elementGuidId>78a9094a-155d-4a8b-8d59-eb314ef47cfa</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.btn.btn-Primary</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'Yes' or . = 'Yes')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[17]</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-Primary</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

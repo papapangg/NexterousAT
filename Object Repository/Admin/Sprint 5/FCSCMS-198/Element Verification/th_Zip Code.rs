@@ -3,10 +3,11 @@
    <description></description>
    <name>th_Zip Code</name>
    <tag></tag>
-   <elementGuidId>dbaa2f0c-3056-4a9a-824c-684412167ca4</elementGuidId>
+   <elementGuidId>d4d2fee5-b34e-4326-a62d-0e6c3036e864</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>

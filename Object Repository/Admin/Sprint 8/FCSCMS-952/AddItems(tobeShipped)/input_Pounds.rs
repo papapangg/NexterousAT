@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Pounds</name>
    <tag></tag>
-   <elementGuidId>cc036c70-afd0-4381-ad72-ec32c193bf61</elementGuidId>
+   <elementGuidId>ee0755c1-070e-4e18-9f54-0cf950af7729</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-Input_PoundsperCubicFeet_PCF_</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b3-Input_PoundsperCubicFeet_PCF_']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-Input_PoundsperCubicFeet_PCF_</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

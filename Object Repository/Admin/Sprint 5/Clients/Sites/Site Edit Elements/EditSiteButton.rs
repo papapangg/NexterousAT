@@ -3,7 +3,7 @@
    <description></description>
    <name>EditSiteButton</name>
    <tag></tag>
-   <elementGuidId>ca5815f0-10c5-4400-88ca-f8d9206123e5</elementGuidId>
+   <elementGuidId>2062c6b7-1be6-42e8-accc-796e068bfa27</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

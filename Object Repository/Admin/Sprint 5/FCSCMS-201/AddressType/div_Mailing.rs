@@ -3,7 +3,7 @@
    <description></description>
    <name>div_Mailing</name>
    <tag></tag>
-   <elementGuidId>5a7a67c3-aedb-4aa8-a316-85e43baa7325</elementGuidId>
+   <elementGuidId>20b6bee3-d97a-4be6-9a28-53d563f87934</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

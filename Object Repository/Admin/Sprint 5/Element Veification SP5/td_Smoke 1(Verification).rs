@@ -3,14 +3,14 @@
    <description></description>
    <name>td_Smoke 1(Verification)</name>
    <tag></tag>
-   <elementGuidId>f832fe3e-9315-4c7e-8f63-290e4ce8009e</elementGuidId>
+   <elementGuidId>1d1754b8-0792-4a60-86c7-7c76ef6b7592</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>/html/body/div[1]/div/div/div/div/div/div/div/div[3]/div[2]/div[4]/table/tbody/tr/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

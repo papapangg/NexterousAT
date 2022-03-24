@@ -3,10 +3,11 @@
    <description></description>
    <name>button_Remove item(PGroupWriter)</name>
    <tag></tag>
-   <elementGuidId>45456c08-d064-4cc9-b6bc-d0c533fec443</elementGuidId>
+   <elementGuidId>b249b485-a98b-4ed5-a559-c4860a1c3492</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>

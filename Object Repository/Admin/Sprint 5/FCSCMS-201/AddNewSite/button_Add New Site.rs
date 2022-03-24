@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Add New Site</name>
    <tag></tag>
-   <elementGuidId>3c58cec0-6992-4f8e-903e-84d1a9709536</elementGuidId>
+   <elementGuidId>77d7b26a-161d-44ec-b59a-1fd61085328f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

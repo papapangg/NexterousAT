@@ -3,7 +3,7 @@
    <description></description>
    <name>ClientDashboard2</name>
    <tag></tag>
-   <elementGuidId>fd646825-2d09-4fa3-8f6a-0a0782f8f063</elementGuidId>
+   <elementGuidId>63f0d44f-b3bb-4d95-9426-4aa4e1e9fa02</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Yes(Save)</name>
    <tag></tag>
-   <elementGuidId>d4d02250-4622-46ed-967d-5f07a02a5e92</elementGuidId>
+   <elementGuidId>d079bbf7-4628-4b71-abb3-60a0250f13d3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

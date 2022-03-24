@@ -3,7 +3,7 @@
    <description></description>
    <name>SiteCode</name>
    <tag></tag>
-   <elementGuidId>04b03668-5fc1-4652-bc33-40d39eb051f9</elementGuidId>
+   <elementGuidId>cd9d90a6-e01d-4970-aa4b-ecb552d5ce29</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

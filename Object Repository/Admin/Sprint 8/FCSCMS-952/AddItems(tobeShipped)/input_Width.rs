@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Width</name>
    <tag></tag>
-   <elementGuidId>3dacd27b-7799-4bfe-a6a2-a65bf380f2ce</elementGuidId>
+   <elementGuidId>fd60c69d-1f03-4a6a-9877-adde24a7b30d</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-Input_Width</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b3-Input_Width']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-Input_Width</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

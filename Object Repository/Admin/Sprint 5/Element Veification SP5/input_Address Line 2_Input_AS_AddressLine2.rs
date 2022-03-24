@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Address Line 2_Input_AS_AddressLine2</name>
    <tag></tag>
-   <elementGuidId>799838c5-0eb6-4d9d-ab90-23680fe5bb7b</elementGuidId>
+   <elementGuidId>c95763b1-bbc8-4d6e-8de5-f533c856443c</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#Input_AS_AddressLine2</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='Input_AS_AddressLine2']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Input_AS_AddressLine2</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

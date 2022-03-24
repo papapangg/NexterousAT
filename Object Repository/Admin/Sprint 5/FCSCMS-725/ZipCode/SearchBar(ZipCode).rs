@@ -3,7 +3,7 @@
    <description></description>
    <name>SearchBar(ZipCode)</name>
    <tag></tag>
-   <elementGuidId>069a68e8-960d-4f18-8ffe-029321855f06</elementGuidId>
+   <elementGuidId>5feb6be8-e9d3-4dc2-a82a-9f9d5abae1d4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

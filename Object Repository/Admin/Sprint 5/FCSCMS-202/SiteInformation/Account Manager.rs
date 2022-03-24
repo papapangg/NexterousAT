@@ -3,15 +3,15 @@
    <description></description>
    <name>Account Manager</name>
    <tag></tag>
-   <elementGuidId>4b049dc9-20b9-4658-9476-3849a2427383</elementGuidId>
+   <elementGuidId>ef159168-024e-4f71-bad1-83e2ade8438f</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b12-b8-Input_AccountManager > div.choices > div.choices__inner</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='b12-b8-Input_AccountManager']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b12-b8-Input_AccountManager > div.choices > div.choices__inner</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Yes(Cancel)</name>
    <tag></tag>
-   <elementGuidId>1ecbbfcb-7fde-41d5-acd1-e5f876f61d6c</elementGuidId>
+   <elementGuidId>90ca6532-be84-49d1-b739-36a881870cc9</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>button.btn.btn-Primary</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[18]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-Primary</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

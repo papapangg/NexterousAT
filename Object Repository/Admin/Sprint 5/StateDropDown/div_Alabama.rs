@@ -3,15 +3,15 @@
    <description></description>
    <name>div_Alabama</name>
    <tag></tag>
-   <elementGuidId>845fc79d-c83b-4394-8ccb-400db80dbc7f</elementGuidId>
+   <elementGuidId>efff1b49-e9ea-4892-9112-5c79e7410c9f</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#choices--b7-b26-DropdownSelect-item-choice-1</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='choices--b7-b26-DropdownSelect-item-choice-1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#choices--b7-b26-DropdownSelect-item-choice-1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

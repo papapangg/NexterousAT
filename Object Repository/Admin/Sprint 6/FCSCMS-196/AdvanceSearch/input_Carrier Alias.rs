@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Carrier Alias</name>
    <tag></tag>
-   <elementGuidId>a76da2c4-4d8f-493b-9fdf-62ea8c0d34b5</elementGuidId>
+   <elementGuidId>bd1bd0f3-3831-42f9-b302-b0b4941c2b38</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b16-Input_CarrierAlias</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b16-Input_CarrierAlias']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b16-Input_CarrierAlias</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

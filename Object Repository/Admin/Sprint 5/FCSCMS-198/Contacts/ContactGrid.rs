@@ -3,7 +3,7 @@
    <description></description>
    <name>ContactGrid</name>
    <tag></tag>
-   <elementGuidId>e39b6ff2-f76c-435c-827b-f03248c9b656</elementGuidId>
+   <elementGuidId>7800f6c3-b1d0-4562-8b6c-d28bf94f62ef</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

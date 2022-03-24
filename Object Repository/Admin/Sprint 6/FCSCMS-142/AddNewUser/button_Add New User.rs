@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Add New User</name>
    <tag></tag>
-   <elementGuidId>bceb1caa-3a93-4c6a-ba6f-8d41f4951c13</elementGuidId>
+   <elementGuidId>5a81000f-00c9-4ca4-b60e-3342e22f1312</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

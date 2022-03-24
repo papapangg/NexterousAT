@@ -3,14 +3,15 @@
    <description></description>
    <name>th_Hazmat</name>
    <tag></tag>
-   <elementGuidId>5de5e024-cef4-416a-a590-715bd8c5675f</elementGuidId>
+   <elementGuidId>76837951-cedf-49ae-811b-489cf1b40e79</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='b3-ClientProductsGrid']/div[3]/table/thead/tr/th[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

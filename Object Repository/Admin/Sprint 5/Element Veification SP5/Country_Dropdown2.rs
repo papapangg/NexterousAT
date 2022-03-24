@@ -3,15 +3,15 @@
    <description></description>
    <name>Country_Dropdown2</name>
    <tag></tag>
-   <elementGuidId>7003d305-faa0-4b3a-bf4b-50df6675719d</elementGuidId>
+   <elementGuidId>a3ce0b9d-5b91-407f-ac03-2d9cf069dea6</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b7-Country5 > div.choices > div.choices__inner</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='b7-Country5']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b7-Country5 > div.choices > div.choices__inner</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

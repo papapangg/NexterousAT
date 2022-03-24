@@ -3,7 +3,7 @@
    <description></description>
    <name>select_SelectActiveInactive</name>
    <tag></tag>
-   <elementGuidId>b0e2d960-def6-41e5-af82-fae0699875fe</elementGuidId>
+   <elementGuidId>cab9000e-198b-4f0e-bbaf-0894c5bba82d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

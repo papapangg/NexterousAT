@@ -3,7 +3,7 @@
    <description></description>
    <name>div_IdentityReader</name>
    <tag></tag>
-   <elementGuidId>42cf95c3-0c20-4de2-9bd8-92fe8d9fb436</elementGuidId>
+   <elementGuidId>8038bdaf-0613-43be-a6e3-740c19854646</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

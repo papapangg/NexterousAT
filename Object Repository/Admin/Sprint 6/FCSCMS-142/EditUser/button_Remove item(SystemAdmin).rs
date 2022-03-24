@@ -3,10 +3,11 @@
    <description></description>
    <name>button_Remove item(SystemAdmin)</name>
    <tag></tag>
-   <elementGuidId>63af6ee1-3210-49f0-8545-ed211fcb1ee6</elementGuidId>
+   <elementGuidId>99b247a0-209d-4c6f-9536-87776cc81e48</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>

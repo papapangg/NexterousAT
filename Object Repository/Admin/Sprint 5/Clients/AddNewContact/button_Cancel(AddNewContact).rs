@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Cancel(AddNewContact)</name>
    <tag></tag>
-   <elementGuidId>c639c925-e449-453b-a698-bb2ef7d89cde</elementGuidId>
+   <elementGuidId>2842de86-acb7-4d4e-a399-31aec02f37d6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

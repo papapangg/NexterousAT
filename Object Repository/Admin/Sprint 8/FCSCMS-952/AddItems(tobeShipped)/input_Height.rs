@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Height</name>
    <tag></tag>
-   <elementGuidId>87c6d6c2-0398-4987-ab60-3a3e24ccea44</elementGuidId>
+   <elementGuidId>09f8ee8d-0ca9-466e-9c87-b4e36c8977a6</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-Input_Height</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b3-Input_Height']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-Input_Height</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

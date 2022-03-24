@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Continue</name>
    <tag></tag>
-   <elementGuidId>6c8915f3-14e8-4254-8794-434c4dccdcb2</elementGuidId>
+   <elementGuidId>48481517-4ae7-40ba-b641-edabbc51786e</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>button.btn.btn-primary</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -3,7 +3,7 @@
    <description></description>
    <name>th_Contact Name</name>
    <tag></tag>
-   <elementGuidId>8faee9b2-a6cc-4f3d-8ab8-eccef96356cd</elementGuidId>
+   <elementGuidId>c692c6b6-17e4-4314-b114-47c2b750d2b7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

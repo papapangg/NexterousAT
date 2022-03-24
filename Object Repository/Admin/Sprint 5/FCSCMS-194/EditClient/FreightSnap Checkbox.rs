@@ -3,15 +3,15 @@
    <description></description>
    <name>FreightSnap Checkbox</name>
    <tag></tag>
-   <elementGuidId>863ff96c-8879-49d4-9ed4-f31958e96ad9</elementGuidId>
+   <elementGuidId>9bbb03b0-6d8e-4c05-9ca9-03c743be9a4a</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b10-Checkbox_FreightSnap</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b10-Checkbox_FreightSnap']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b10-Checkbox_FreightSnap</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

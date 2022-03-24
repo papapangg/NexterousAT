@@ -3,7 +3,7 @@
    <description></description>
    <name>Status</name>
    <tag></tag>
-   <elementGuidId>fed2b5b5-9d55-4b94-808e-a59db8f99cb2</elementGuidId>
+   <elementGuidId>12972981-3291-4d87-9773-de34fd076e11</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

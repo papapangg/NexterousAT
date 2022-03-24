@@ -3,15 +3,15 @@
    <description></description>
    <name>div_AT NMFC</name>
    <tag></tag>
-   <elementGuidId>69ca505c-3d85-407a-a81a-a3a6496b5488</elementGuidId>
+   <elementGuidId>6f43ca60-c72c-4bcb-af8c-0b669c5650f9</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#choices--b18-b7-DropdownSelect-item-choice-1</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='choices--b18-b7-DropdownSelect-item-choice-1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#choices--b18-b7-DropdownSelect-item-choice-1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

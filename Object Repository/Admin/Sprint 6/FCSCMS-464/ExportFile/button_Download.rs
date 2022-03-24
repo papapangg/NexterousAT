@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Download</name>
    <tag></tag>
-   <elementGuidId>66349007-6daa-4d89-ad16-d7ef3617e80a</elementGuidId>
+   <elementGuidId>440abace-5c3d-4a12-811f-df68dd1c7900</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>button.btn.btn-Primary.ThemeGrid_MarginGutter</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(//button[@type='submit'])[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-Primary.ThemeGrid_MarginGutter</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

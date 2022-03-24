@@ -3,7 +3,7 @@
    <description></description>
    <name>SpanUp(AdvanceSearch)</name>
    <tag></tag>
-   <elementGuidId>b1705d6c-7e8f-43d4-8ddc-d8d46dd11b84</elementGuidId>
+   <elementGuidId>bfb57bed-c3bd-4aeb-ae25-c2528863bade</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

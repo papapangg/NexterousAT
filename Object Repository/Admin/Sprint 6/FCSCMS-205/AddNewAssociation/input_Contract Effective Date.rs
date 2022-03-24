@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Contract Effective Date</name>
    <tag></tag>
-   <elementGuidId>e23d557b-1258-420a-8c2a-c9a4916d8ee0</elementGuidId>
+   <elementGuidId>dacc6bc3-c519-48e2-8095-ae93a492f7f1</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b16-b31-Input_EffectiveDate</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b16-b31-Input_EffectiveDate']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b16-b31-Input_EffectiveDate</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

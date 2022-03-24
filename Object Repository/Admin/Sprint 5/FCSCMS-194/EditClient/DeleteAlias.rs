@@ -3,15 +3,15 @@
    <description></description>
    <name>DeleteAlias</name>
    <tag></tag>
-   <elementGuidId>15b832fc-5447-4379-bad3-6cb4b02e8829</elementGuidId>
+   <elementGuidId>8762435d-932a-49f9-833c-ac662261c4e1</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>div.ThemeGrid_Width2.ThemeGrid_MarginGutter > a > img</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>/html/body/div[1]/div/div/div/div/div/div/div/div[3]/div/div[2]/div/div[2]/div/div[1]/div/div/div/div[1]/div[4]/div/div[3]/div/table/tbody/tr/td/div[2]/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ThemeGrid_Width2.ThemeGrid_MarginGutter > a > img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

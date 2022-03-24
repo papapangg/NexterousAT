@@ -3,15 +3,19 @@
    <description></description>
    <name>button_Cancel</name>
    <tag></tag>
-   <elementGuidId>be02932f-251d-4329-b285-36e34aa9ef8a</elementGuidId>
+   <elementGuidId>8628f51e-fe4c-4668-8fa8-a4c8ae33ebcf</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.margin-top-s.text-align-center > button.btn.btn-secondary.cancel-btn.ThemeGrid_MarginGutter</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'Cancel' or . = 'Cancel')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[6]</value>
+         <value>/html/body/div/div/div/div/div/div/div/div/div[2]/div[6]/aside/div[2]/span/div/div/form/div[5]/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.margin-top-s.text-align-center > button.btn.btn-secondary.cancel-btn.ThemeGrid_MarginGutter</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

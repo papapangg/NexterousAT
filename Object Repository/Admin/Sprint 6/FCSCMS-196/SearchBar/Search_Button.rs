@@ -3,15 +3,15 @@
    <description></description>
    <name>Search_Button</name>
    <tag></tag>
-   <elementGuidId>9e101af3-52e6-4550-80cb-dd4220fda371</elementGuidId>
+   <elementGuidId>e4bff2c3-513a-47ab-9b2c-710bc7efb4d4</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b16-b2-b1-Icon > div.icon-circle</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='b16-b2-b1-Icon']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b16-b2-b1-Icon > div.icon-circle</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

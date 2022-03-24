@@ -3,7 +3,7 @@
    <description></description>
    <name>div_PrivilegeGroupAdmin</name>
    <tag></tag>
-   <elementGuidId>cc045d99-34b3-4b05-9f06-69bc11a4f5ad</elementGuidId>
+   <elementGuidId>cbfa6a69-c6f4-4af2-9ae8-61f643f45e0d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

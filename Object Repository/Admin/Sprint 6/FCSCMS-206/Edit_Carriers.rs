@@ -3,15 +3,15 @@
    <description></description>
    <name>Edit_Carriers</name>
    <tag></tag>
-   <elementGuidId>5e71a871-3e5b-49a2-a027-30209ce78036</elementGuidId>
+   <elementGuidId>790fd7c1-5b05-4878-8aed-d0aa05d4e057</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>img.img-icon</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>/html/body/div[1]/div/div/div/div/div/div/div/div[3]/div/div[2]/div/div[2]/div/div[4]/div/div/div/div/div[2]/span/div/table/tbody/tr/td[1]/div/div/div/div[1]/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.img-icon</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

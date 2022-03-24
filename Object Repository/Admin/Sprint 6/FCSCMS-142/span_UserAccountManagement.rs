@@ -3,7 +3,7 @@
    <description></description>
    <name>span_UserAccountManagement</name>
    <tag></tag>
-   <elementGuidId>9adf0144-6cf4-4e42-ad89-95b893b9b893</elementGuidId>
+   <elementGuidId>69770f19-9e5a-4be3-9728-13bf11fb75c7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

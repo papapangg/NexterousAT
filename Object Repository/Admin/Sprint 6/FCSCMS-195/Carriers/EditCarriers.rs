@@ -3,7 +3,7 @@
    <description></description>
    <name>EditCarriers</name>
    <tag></tag>
-   <elementGuidId>3bd737ad-b72f-4ccc-900a-c7bb4f0e977c</elementGuidId>
+   <elementGuidId>37cf6d20-d3b0-4ed1-9aee-42abe0fea29f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

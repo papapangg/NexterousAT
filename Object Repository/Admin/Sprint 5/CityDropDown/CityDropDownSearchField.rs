@@ -3,15 +3,15 @@
    <description></description>
    <name>CityDropDownSearchField</name>
    <tag></tag>
-   <elementGuidId>d0f3c02a-952c-4254-8b47-b08a0996ae0b</elementGuidId>
+   <elementGuidId>3cfb20ee-75da-4741-96e4-2fe2769122e6</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>input.choices__input.choices__input--cloned</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@type='text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.choices__input.choices__input--cloned</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

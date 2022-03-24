@@ -3,18 +3,22 @@
    <description></description>
    <name>button_Yes(Save)</name>
    <tag></tag>
-   <elementGuidId>356794f9-2a5d-4992-aa38-00d259e2ac92</elementGuidId>
+   <elementGuidId>4961dd42-0718-469e-a500-f54dc296b4d5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.btn.btn-Primary</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'Yes' or . = 'Yes')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>/html/body/div[3]/div/div/div/div/span[2]/div/button[2]</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-Primary</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

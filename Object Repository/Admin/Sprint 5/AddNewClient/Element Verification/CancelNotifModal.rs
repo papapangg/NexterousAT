@@ -3,15 +3,15 @@
    <description></description>
    <name>CancelNotifModal</name>
    <tag></tag>
-   <elementGuidId>f4d26acb-e63e-4244-bc42-e680c25f874b</elementGuidId>
+   <elementGuidId>5f7c73a9-5a91-4628-bdea-3c46a75d104c</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>div.text-align-center > span.font-bold.font-size-base</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>/html/body/div[3]/div/div/div/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-align-center > span.font-bold.font-size-base</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Add New Association</name>
    <tag></tag>
-   <elementGuidId>7b92c92b-5ac8-4dda-bff9-95db5e913d5a</elementGuidId>
+   <elementGuidId>12e3fef4-8ce6-4a57-a83c-4fdeaa216c19</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b16-b1-ButtonBar > button.btn.btn-secondary.ThemeGrid_MarginGutter</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[12]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b16-b1-ButtonBar > button.btn.btn-secondary.ThemeGrid_MarginGutter</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

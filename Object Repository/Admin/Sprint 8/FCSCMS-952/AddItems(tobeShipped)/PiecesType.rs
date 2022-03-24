@@ -3,15 +3,15 @@
    <description></description>
    <name>PiecesType</name>
    <tag></tag>
-   <elementGuidId>db40bec9-d283-4c39-acf0-98999e2f7c61</elementGuidId>
+   <elementGuidId>aa7e5c7c-764c-474a-adb2-0c214f6465d8</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-Dropdown_PiecesType</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//select[@id='b3-Dropdown_PiecesType']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-Dropdown_PiecesType</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

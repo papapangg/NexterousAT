@@ -3,15 +3,15 @@
    <description></description>
    <name>Pricing</name>
    <tag></tag>
-   <elementGuidId>224d4d80-b9bf-42a9-9cf1-67c5ce553dc9</elementGuidId>
+   <elementGuidId>a95600b9-c96d-4ee4-b6da-6f4691b3032b</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b16-b31-Dropdown1</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//select[@id='b16-b31-Dropdown1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b16-b31-Dropdown1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

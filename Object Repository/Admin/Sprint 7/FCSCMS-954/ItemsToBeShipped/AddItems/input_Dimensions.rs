@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Dimensions</name>
    <tag></tag>
-   <elementGuidId>a3b63528-e941-4579-96a4-400a625a78f4</elementGuidId>
+   <elementGuidId>272e7f11-6491-4603-bc92-cf8a0c63d995</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-RadioButton_Dimensions-input</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b3-RadioButton_Dimensions-input']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-RadioButton_Dimensions-input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

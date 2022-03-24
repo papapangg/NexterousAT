@@ -3,15 +3,15 @@
    <description></description>
    <name>AuditPreference</name>
    <tag></tag>
-   <elementGuidId>f5c112cd-3d85-47e7-90e1-a223650b949d</elementGuidId>
+   <elementGuidId>ecf1f228-a59e-49d5-9944-b5e2aeb93357</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b16-AuditPreferenceDropdown</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//select[@id='b16-AuditPreferenceDropdown']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b16-AuditPreferenceDropdown</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

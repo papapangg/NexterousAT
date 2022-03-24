@@ -3,7 +3,7 @@
    <description></description>
    <name>BillingAddressBoard</name>
    <tag></tag>
-   <elementGuidId>9dac384a-1fa6-43b2-95bd-40675a7aa4e2</elementGuidId>
+   <elementGuidId>d2c7e0d8-7ff8-4955-9669-4870ee9ae5c1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

@@ -3,7 +3,7 @@
    <description></description>
    <name>AccountManager</name>
    <tag></tag>
-   <elementGuidId>c15ad6ca-1938-4aa3-82fb-2ca452a07f5f</elementGuidId>
+   <elementGuidId>4177298d-d3e8-4faf-ad85-6f2c443de960</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

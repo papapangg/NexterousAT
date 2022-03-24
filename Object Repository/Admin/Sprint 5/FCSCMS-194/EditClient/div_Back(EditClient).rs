@@ -3,15 +3,15 @@
    <description></description>
    <name>div_Back(EditClient)</name>
    <tag></tag>
-   <elementGuidId>880ccce7-8b7a-423e-86c7-22aea26f0de3</elementGuidId>
+   <elementGuidId>7dd36d77-d1df-4ca1-9a3f-4686fd5b708d</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>div.display-flex.text-primary</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='b1-MainContent']/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.display-flex.text-primary</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

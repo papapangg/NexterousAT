@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Hazmat Phone</name>
    <tag></tag>
-   <elementGuidId>2c06b84f-2e87-4242-bd84-8b5547f0becf</elementGuidId>
+   <elementGuidId>296e5d66-26af-4517-abca-9076d19f587b</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-InputHazmatPhone</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b3-InputHazmatPhone']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-InputHazmatPhone</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

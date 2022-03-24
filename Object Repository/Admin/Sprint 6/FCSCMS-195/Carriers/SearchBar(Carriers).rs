@@ -3,7 +3,7 @@
    <description></description>
    <name>SearchBar(Carriers)</name>
    <tag></tag>
-   <elementGuidId>0d491e5d-09e2-4845-b4cd-3dcb06c02a21</elementGuidId>
+   <elementGuidId>dba852aa-9bb9-4916-8548-c322537674fc</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

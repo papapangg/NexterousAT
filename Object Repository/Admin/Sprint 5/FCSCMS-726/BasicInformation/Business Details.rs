@@ -3,7 +3,7 @@
    <description></description>
    <name>Business Details</name>
    <tag></tag>
-   <elementGuidId>17a125c3-8652-4f99-a7a5-8e75255a55dd</elementGuidId>
+   <elementGuidId>055b4e6d-f4a2-4508-8a49-0478ff1d8d3c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

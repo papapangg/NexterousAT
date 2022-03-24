@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Cubic</name>
    <tag></tag>
-   <elementGuidId>adca4544-8f5f-45d1-a60c-93dfb6f43181</elementGuidId>
+   <elementGuidId>8c63fc49-4f83-4400-b296-1ca8ae601a8d</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-RadioButton_Cubic-input</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b3-RadioButton_Cubic-input']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-RadioButton_Cubic-input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

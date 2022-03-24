@@ -3,15 +3,15 @@
    <description></description>
    <name>CityDropDown</name>
    <tag></tag>
-   <elementGuidId>492e5376-6657-4491-80b4-c59c09c847b8</elementGuidId>
+   <elementGuidId>b0c120d0-32ff-429c-9e9f-07187f9de960</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>div.choices__inner</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='b7-city5']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.choices__inner</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

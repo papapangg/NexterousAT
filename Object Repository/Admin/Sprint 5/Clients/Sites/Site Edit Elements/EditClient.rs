@@ -3,7 +3,7 @@
    <description></description>
    <name>EditClient</name>
    <tag></tag>
-   <elementGuidId>bd552201-042a-42a5-a4dd-837f7aa8fede</elementGuidId>
+   <elementGuidId>aa5a88ea-d8a4-4aea-abfe-ab7fc6e26aa3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

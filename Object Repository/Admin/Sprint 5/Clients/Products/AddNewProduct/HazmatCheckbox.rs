@@ -3,7 +3,7 @@
    <description></description>
    <name>HazmatCheckbox</name>
    <tag></tag>
-   <elementGuidId>93eae41f-da39-4e60-abbe-709485eafe2d</elementGuidId>
+   <elementGuidId>6e333a69-d7e3-4d8f-824c-497171722f37</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

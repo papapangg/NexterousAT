@@ -3,15 +3,15 @@
    <description></description>
    <name>input_ of Pieces</name>
    <tag></tag>
-   <elementGuidId>8304c6da-9b8c-418d-b98b-ae98619f64ed</elementGuidId>
+   <elementGuidId>89d4e48c-c194-4c72-9264-6d6f55e06ea8</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-Input_HashofPieces</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b3-Input_HashofPieces']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-Input_HashofPieces</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

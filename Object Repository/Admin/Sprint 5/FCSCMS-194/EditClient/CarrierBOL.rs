@@ -3,15 +3,15 @@
    <description></description>
    <name>CarrierBOL</name>
    <tag></tag>
-   <elementGuidId>691d2c3c-3608-40aa-93a6-e7b9e0847d35</elementGuidId>
+   <elementGuidId>8d94f557-d6d2-44f5-b498-9eb9041aab43</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b10-RadioButton2-input</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b10-RadioButton2-input']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b10-RadioButton2-input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

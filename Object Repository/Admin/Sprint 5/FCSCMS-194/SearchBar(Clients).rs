@@ -3,15 +3,15 @@
    <description></description>
    <name>SearchBar(Clients)</name>
    <tag></tag>
-   <elementGuidId>5674293d-c6d9-4a7a-a2b8-21355cc2ed7e</elementGuidId>
+   <elementGuidId>9078d048-4f3e-4292-a275-e1e406c735ac</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b4-Input_TextVar</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b4-Input_TextVar']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b4-Input_TextVar</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

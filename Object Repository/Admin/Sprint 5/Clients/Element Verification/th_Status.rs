@@ -3,10 +3,11 @@
    <description></description>
    <name>th_Status</name>
    <tag></tag>
-   <elementGuidId>dc4c454f-ff82-4bad-b6b2-6cac7dd5b1ea</elementGuidId>
+   <elementGuidId>daa1bd98-4fed-4b04-ab6f-ad3d4fa87b00</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>

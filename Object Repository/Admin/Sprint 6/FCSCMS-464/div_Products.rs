@@ -3,15 +3,15 @@
    <description></description>
    <name>div_Products</name>
    <tag></tag>
-   <elementGuidId>e6e481fc-62b7-49bc-b02a-16669b609f69</elementGuidId>
+   <elementGuidId>ccc77ef5-2c8a-413f-9df9-ba8663cbfdc9</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b8-Title</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='b8-Title']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b8-Title</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

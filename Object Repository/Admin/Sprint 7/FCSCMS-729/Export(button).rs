@@ -3,15 +3,15 @@
    <description></description>
    <name>Export(button)</name>
    <tag></tag>
-   <elementGuidId>fb20dcbc-9152-42a7-8a97-a750f8e48410</elementGuidId>
+   <elementGuidId>6f9386a3-1b86-4471-b4b8-6f349533617c</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>img[title=&quot;EXCEL&quot;]</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='b3-$b14']/div/div/div[2]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[title=&quot;EXCEL&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

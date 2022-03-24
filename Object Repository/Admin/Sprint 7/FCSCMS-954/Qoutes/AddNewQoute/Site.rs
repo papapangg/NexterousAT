@@ -3,15 +3,15 @@
    <description></description>
    <name>Site</name>
    <tag></tag>
-   <elementGuidId>95f8d962-2559-42fb-9057-b13c59a7838c</elementGuidId>
+   <elementGuidId>66490063-4fce-4c80-9cd6-5aef5133643e</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-Dropdown_Site</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//select[@id='b3-Dropdown_Site']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-Dropdown_Site</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

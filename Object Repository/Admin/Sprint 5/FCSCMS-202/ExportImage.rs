@@ -3,15 +3,15 @@
    <description></description>
    <name>ExportImage</name>
    <tag></tag>
-   <elementGuidId>b36f8eef-ef37-426d-80aa-c7d339ad3e5b</elementGuidId>
+   <elementGuidId>499555d6-2bd0-49ec-bc51-5414542bb3ec</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>img[title=&quot;EXCEL&quot;]</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='b12-$b4']/div/div/div[2]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[title=&quot;EXCEL&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -3,14 +3,14 @@
    <description></description>
    <name>td_Line 1, Line 2</name>
    <tag></tag>
-   <elementGuidId>08549dc4-64c7-4224-9c8a-c68d75f513c3</elementGuidId>
+   <elementGuidId>ba6dfe16-2c70-4509-bc35-5d7fe89e8221</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='GridContainer']/div[4]/table/tbody/tr/td[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

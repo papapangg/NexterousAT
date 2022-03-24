@@ -3,15 +3,15 @@
    <description></description>
    <name>Broker</name>
    <tag></tag>
-   <elementGuidId>bf2df118-61c3-4349-ab16-3a698400c0de</elementGuidId>
+   <elementGuidId>d2612811-b66b-4a0f-8d5b-b4b76df5b656</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b16-b31-Dropdown3</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//select[@id='b16-b31-Dropdown3']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b16-b31-Dropdown3</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

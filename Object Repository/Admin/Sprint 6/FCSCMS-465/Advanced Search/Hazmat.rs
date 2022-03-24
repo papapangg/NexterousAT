@@ -3,15 +3,15 @@
    <description></description>
    <name>Hazmat</name>
    <tag></tag>
-   <elementGuidId>0ce4a7e3-7854-465b-8f58-e83076d86ff8</elementGuidId>
+   <elementGuidId>af7e1079-6373-4a82-b85a-3323176e3503</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b18-Dropdown1</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//select[@id='b18-Dropdown1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b18-Dropdown1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

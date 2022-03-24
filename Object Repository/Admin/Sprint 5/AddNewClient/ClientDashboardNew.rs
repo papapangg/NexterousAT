@@ -3,10 +3,11 @@
    <description></description>
    <name>ClientDashboardNew</name>
    <tag></tag>
-   <elementGuidId>d82cfff6-803c-4cf2-a538-6e076d4eaa84</elementGuidId>
+   <elementGuidId>97d99519-f881-42c7-ae03-c7621dbd666d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>

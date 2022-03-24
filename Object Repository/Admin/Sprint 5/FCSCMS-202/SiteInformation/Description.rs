@@ -3,15 +3,15 @@
    <description></description>
    <name>Description</name>
    <tag></tag>
-   <elementGuidId>0920b05d-8334-4711-bbcb-a4a122dc1e62</elementGuidId>
+   <elementGuidId>1485938c-d057-49c9-81d1-978355212e67</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b12-b8-Input_Description</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b12-b8-Input_Description']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b12-b8-Input_Description</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

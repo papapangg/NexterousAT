@@ -3,14 +3,14 @@
    <description></description>
    <name>Smoke 1 Verification</name>
    <tag></tag>
-   <elementGuidId>21bbfa83-365c-4284-8825-02a0ceb179b8</elementGuidId>
+   <elementGuidId>3b933c3c-a2df-41f5-90f5-0c7bf9e1fb9e</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>/html/body/div[1]/div/div/div/div/div/div/div/div[3]/div[2]/div[4]/table/tbody/tr/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

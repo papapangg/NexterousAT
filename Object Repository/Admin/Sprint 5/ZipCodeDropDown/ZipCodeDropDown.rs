@@ -3,15 +3,15 @@
    <description></description>
    <name>ZipCodeDropDown</name>
    <tag></tag>
-   <elementGuidId>83911a78-5528-41f1-94e8-6f0fe9bf7348</elementGuidId>
+   <elementGuidId>8df3a5ed-69a8-4bd2-9f8b-00b28d73cb72</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b7-zip5 > div.choices > div.choices__inner</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='b7-zip5']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b7-zip5 > div.choices > div.choices__inner</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -3,10 +3,11 @@
    <description></description>
    <name>TestAmerica</name>
    <tag></tag>
-   <elementGuidId>19d2b056-320b-41c1-b6cc-0ca26ed8ad77</elementGuidId>
+   <elementGuidId>e20015d5-0816-4653-8d3b-392a21dfc7ed</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>

@@ -3,14 +3,14 @@
    <description></description>
    <name>SearchResults</name>
    <tag></tag>
-   <elementGuidId>4e9070fd-62f9-4341-91d5-67e62172e381</elementGuidId>
+   <elementGuidId>016954fb-b5d0-4ae2-888c-19885a5e2f78</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>/html/body/div[1]/div/div/div/div/div/div/div/div[3]/div[2]/div[4]/table/tbody/tr/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -3,15 +3,15 @@
    <description></description>
    <name>button_No(Cancel)</name>
    <tag></tag>
-   <elementGuidId>38a7266b-a51a-49ef-adc1-a3278b41e4fb</elementGuidId>
+   <elementGuidId>b0465f5f-529a-47a3-93c9-311dd779b624</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>button.btn.border-radius-rounded</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>/html/body/div[3]/div/div/div/div/span[2]/div/button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.border-radius-rounded</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

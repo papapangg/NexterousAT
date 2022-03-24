@@ -3,15 +3,15 @@
    <description></description>
    <name>Edit Site(TestSite)</name>
    <tag></tag>
-   <elementGuidId>9fe3cb70-ec36-43c8-8c90-ac10ddabf5dc</elementGuidId>
+   <elementGuidId>427e6a0c-644f-483f-a5ab-49f459a53674</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>img.img-icon</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='$b12']/span/div/span/div/table/tbody/tr/td/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.img-icon</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

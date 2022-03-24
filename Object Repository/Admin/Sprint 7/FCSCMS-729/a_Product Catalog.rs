@@ -3,18 +3,22 @@
    <description></description>
    <name>a_Product Catalog</name>
    <tag></tag>
-   <elementGuidId>85a4a0b2-1436-47c8-a642-fc851e0f49b2</elementGuidId>
+   <elementGuidId>b55bf760-fbac-4884-b101-8d295539c44e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.validatelink.active</value>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Product Catalog' or . = 'Product Catalog')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='b2-PageLinks']/div/div/span[5]/div/a</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.validatelink.active</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +35,7 @@
       <value>validatelink active</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>

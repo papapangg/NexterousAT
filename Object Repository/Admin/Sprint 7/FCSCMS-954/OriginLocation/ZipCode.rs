@@ -3,15 +3,15 @@
    <description></description>
    <name>ZipCode</name>
    <tag></tag>
-   <elementGuidId>456a5bc9-5133-4fb6-875a-b3a7e77f8c12</elementGuidId>
+   <elementGuidId>aa31a49c-1c5e-4f6b-89f4-8d635a2eb6b9</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-b51-zip2 > div.choices > div.choices__inner</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>/html/body/div[1]/div/div/div/div/div/div/div/div[3]/div/div/span[1]/div/span[1]/div/div[1]/div[3]/div[1]/div/div[3]/div/div[1]/div/div/form/span/div/div/form/div[2]/div/div/div[1]/div/div/div/div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-b51-zip2 > div.choices > div.choices__inner</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

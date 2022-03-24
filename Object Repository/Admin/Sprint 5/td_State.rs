@@ -3,14 +3,14 @@
    <description></description>
    <name>td_State</name>
    <tag></tag>
-   <elementGuidId>1673712d-7a3f-401d-a404-f780296f4809</elementGuidId>
+   <elementGuidId>b60219d3-9f70-4179-885e-4b0accd61dd8</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>/html/body/div[1]/div/div/div/div/div/div/div/div[3]/div[2]/div[4]/table/tbody/tr/td[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

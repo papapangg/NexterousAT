@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Hazmat_No</name>
    <tag></tag>
-   <elementGuidId>c63f4935-b96d-401a-991a-8a3650c0ee50</elementGuidId>
+   <elementGuidId>1da0ef13-3784-48b8-912c-a9ef97bee40d</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-RadioButton_No2-input</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b3-RadioButton_No2-input']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-RadioButton_No2-input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

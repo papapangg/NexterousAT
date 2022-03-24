@@ -3,7 +3,7 @@
    <description></description>
    <name>EditIcon(AutomationTest2)</name>
    <tag></tag>
-   <elementGuidId>5d633157-f188-4d43-8eb5-d3bb3e4db3a4</elementGuidId>
+   <elementGuidId>9488cee4-5ffa-426f-9e4c-4e2bf0d10c42</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

@@ -3,14 +3,15 @@
    <description></description>
    <name>CarrierSCACode</name>
    <tag></tag>
-   <elementGuidId>f83fec15-05c6-426f-ba19-7c5203811708</elementGuidId>
+   <elementGuidId>6252bdd4-3213-4f60-8b8f-db6231c563f6</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='b16-$b5']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

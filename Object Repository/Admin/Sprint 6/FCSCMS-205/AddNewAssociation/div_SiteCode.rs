@@ -3,15 +3,15 @@
    <description></description>
    <name>div_SiteCode</name>
    <tag></tag>
-   <elementGuidId>4e7e5cf7-f0a4-457d-aca4-03ba326b6c51</elementGuidId>
+   <elementGuidId>cd148037-dd37-468a-a8b5-ca47a77aa6f8</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b16-b31-SiteCodeDropDown > div.choices.text-align-left > div.choices__inner</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>/html/body/div[1]/div/div/div/div/div/div/div/div[2]/div[5]/aside/div[2]/form/div[2]/div/div/div[1]/div/div/div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b16-b31-SiteCodeDropDown > div.choices.text-align-left > div.choices__inner</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -3,15 +3,15 @@
    <description></description>
    <name>ContactsDashboard</name>
    <tag></tag>
-   <elementGuidId>84bd0cc1-4efc-4249-9b9d-e3725029ff2b</elementGuidId>
+   <elementGuidId>7dd3be7c-8509-47c0-8334-c5500db0c318</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b14-List</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='b14-List']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b14-List</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

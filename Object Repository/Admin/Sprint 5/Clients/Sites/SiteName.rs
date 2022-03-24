@@ -3,7 +3,7 @@
    <description></description>
    <name>SiteName</name>
    <tag></tag>
-   <elementGuidId>5179e031-b47a-48b2-8544-789078de4a79</elementGuidId>
+   <elementGuidId>ea8f77bb-0620-4b80-b18c-129e394b345a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

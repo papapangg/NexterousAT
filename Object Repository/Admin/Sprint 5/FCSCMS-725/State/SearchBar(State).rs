@@ -3,7 +3,7 @@
    <description></description>
    <name>SearchBar(State)</name>
    <tag></tag>
-   <elementGuidId>7234354f-8f48-4c27-88aa-f847e84cb4b6</elementGuidId>
+   <elementGuidId>b75175de-89a9-4255-9ac6-b949d89c82bb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

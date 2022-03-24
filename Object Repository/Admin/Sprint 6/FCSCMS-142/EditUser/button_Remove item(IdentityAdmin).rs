@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Remove item(IdentityAdmin)</name>
    <tag></tag>
-   <elementGuidId>1d59c1a6-a9ba-4027-bc72-8cdbf2d80180</elementGuidId>
+   <elementGuidId>a8c19fac-53ff-4017-820e-02114c306e1b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

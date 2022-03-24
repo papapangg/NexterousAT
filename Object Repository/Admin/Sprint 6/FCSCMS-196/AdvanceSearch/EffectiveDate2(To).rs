@@ -3,15 +3,15 @@
    <description></description>
    <name>EffectiveDate2(To)</name>
    <tag></tag>
-   <elementGuidId>c2275e13-6e6a-417b-8474-7f2b991899dc</elementGuidId>
+   <elementGuidId>f1539966-3dc1-45a9-9ff8-5cc9246fc4c1</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b16-Input_EffectiveDate2</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b16-Input_EffectiveDate2']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b16-Input_EffectiveDate2</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Privilege Group</name>
    <tag></tag>
-   <elementGuidId>0fc24397-7cad-4e21-84b6-88237a68dcf0</elementGuidId>
+   <elementGuidId>e3535c33-c3a5-4c26-af3f-8f87e2235261</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

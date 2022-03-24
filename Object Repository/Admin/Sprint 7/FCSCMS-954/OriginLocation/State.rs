@@ -3,15 +3,15 @@
    <description></description>
    <name>State</name>
    <tag></tag>
-   <elementGuidId>64011ab9-e0a4-437a-be0e-ec53f3d5a179</elementGuidId>
+   <elementGuidId>998ea042-d893-46d7-bd5e-ce4e221e43de</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-b51-state2 > div.choices > div.choices__inner</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>/html/body/div[1]/div/div/div/div/div/div/div/div[3]/div/div/span[1]/div/span[1]/div/div[1]/div[3]/div[1]/div/div[3]/div/div[1]/div/div/form/span/div/div/form/div[1]/div/div/div[2]/div/div/div/div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-b51-state2 > div.choices > div.choices__inner</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

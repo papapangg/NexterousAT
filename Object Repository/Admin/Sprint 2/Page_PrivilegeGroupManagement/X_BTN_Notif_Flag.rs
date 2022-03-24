@@ -3,15 +3,15 @@
    <description></description>
    <name>X_BTN_Notif_Flag</name>
    <tag></tag>
-   <elementGuidId>88e53895-d0e2-465c-913f-0c48035e5e7e</elementGuidId>
+   <elementGuidId>fdee9408-5f45-4ad1-ab9d-720528e3d3e2</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>i</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='feedbackMessageContainer']/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

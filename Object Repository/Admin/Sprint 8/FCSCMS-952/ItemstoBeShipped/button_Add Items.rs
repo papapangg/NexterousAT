@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Add Items</name>
    <tag></tag>
-   <elementGuidId>5cc21099-bae6-42c9-ac7a-a1dbe0865d3c</elementGuidId>
+   <elementGuidId>25b209f9-a0be-4d8e-84bc-20402125108b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

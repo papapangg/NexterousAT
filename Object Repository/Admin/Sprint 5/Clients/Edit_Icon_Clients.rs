@@ -3,10 +3,11 @@
    <description></description>
    <name>Edit_Icon_Clients</name>
    <tag></tag>
-   <elementGuidId>18d9b16c-1d42-4a11-99e4-700ad2e90ddb</elementGuidId>
+   <elementGuidId>fc7161ca-1946-4b72-a94a-f8df0e6ed9d3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>

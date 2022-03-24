@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Yes(AddNewAddress)</name>
    <tag></tag>
-   <elementGuidId>515eaea1-fc32-4033-ade2-fac7355f05c3</elementGuidId>
+   <elementGuidId>bd31ccdd-9a58-47b8-ae4e-a2f634405e6f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

@@ -3,14 +3,15 @@
    <description></description>
    <name>th_UN  NA Number</name>
    <tag></tag>
-   <elementGuidId>1642a63a-9b8a-44f0-ab6a-71fd230c5ea2</elementGuidId>
+   <elementGuidId>44028e65-995a-495f-a8a5-56df34f9166b</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='b3-ClientProductsGrid']/div[3]/table/thead/tr/th[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

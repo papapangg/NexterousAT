@@ -3,7 +3,7 @@
    <description></description>
    <name>Remove item_IdentityReader</name>
    <tag></tag>
-   <elementGuidId>fea01a9a-50e7-499c-a495-b6a58c25a7b9</elementGuidId>
+   <elementGuidId>2608d064-4497-47eb-9402-69733e6ba51d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

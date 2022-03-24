@@ -3,15 +3,15 @@
    <description></description>
    <name>Ship Date</name>
    <tag></tag>
-   <elementGuidId>9896008f-cc6d-4678-bbbf-9409a9703da3</elementGuidId>
+   <elementGuidId>05255e14-573f-4a77-9999-02d06d12c9e8</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-Input_FormatedShipDate</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b3-Input_FormatedShipDate']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-Input_FormatedShipDate</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

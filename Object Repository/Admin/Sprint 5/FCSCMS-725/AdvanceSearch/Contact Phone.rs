@@ -3,7 +3,7 @@
    <description></description>
    <name>Contact Phone</name>
    <tag></tag>
-   <elementGuidId>d60197d0-b687-410f-b227-06c02aa50f16</elementGuidId>
+   <elementGuidId>9c14c717-5c16-4ccf-9068-20dee045d850</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

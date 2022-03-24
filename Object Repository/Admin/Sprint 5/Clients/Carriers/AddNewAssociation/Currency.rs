@@ -3,7 +3,7 @@
    <description></description>
    <name>Currency</name>
    <tag></tag>
-   <elementGuidId>f3e053b3-24f3-44ea-b8d3-8f4dc4476b2e</elementGuidId>
+   <elementGuidId>2b0bcc59-55bb-45ed-bc58-576a1dde8fda</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

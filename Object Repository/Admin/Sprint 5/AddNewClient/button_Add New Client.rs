@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Add New Client</name>
    <tag></tag>
-   <elementGuidId>8907132c-6079-411a-a77d-1187b71c0ea5</elementGuidId>
+   <elementGuidId>5c8501e8-679f-4597-b24d-7c17439bc854</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

@@ -3,15 +3,15 @@
    <description></description>
    <name>OriginAddressLine1</name>
    <tag></tag>
-   <elementGuidId>ba2e4451-ddb0-4855-a559-bfcf1d3cee56</elementGuidId>
+   <elementGuidId>a0206548-c73c-4095-8ec0-cd05e667eca6</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-OriginAddressLine1</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b3-OriginAddressLine1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-OriginAddressLine1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

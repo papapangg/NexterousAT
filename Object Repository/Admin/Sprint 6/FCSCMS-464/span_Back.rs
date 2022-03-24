@@ -3,15 +3,15 @@
    <description></description>
    <name>span_Back</name>
    <tag></tag>
-   <elementGuidId>b0ccc1a8-66f8-4722-8061-58c90e5152db</elementGuidId>
+   <elementGuidId>a94e0b37-839b-49fd-b7d4-c735c1c0f423</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>span.margin-left-s</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='b1-MainContent']/div/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.margin-left-s</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -3,15 +3,15 @@
    <description></description>
    <name>ExpirationDateTo</name>
    <tag></tag>
-   <elementGuidId>bfd4eeb8-16e0-4943-8d6c-5203054fdb1a</elementGuidId>
+   <elementGuidId>cca40726-d059-4fbd-8ad0-3fd770d5861a</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b16-Input_ExpirationDateTo</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b16-Input_ExpirationDateTo']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b16-Input_ExpirationDateTo</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

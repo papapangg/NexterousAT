@@ -3,7 +3,7 @@
    <description></description>
    <name>Audit(Automated)</name>
    <tag></tag>
-   <elementGuidId>b1c1c000-0b28-45cc-9341-7d2cd0ff463f</elementGuidId>
+   <elementGuidId>2b60d70e-f68c-43d3-93b2-857ba17abfc3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

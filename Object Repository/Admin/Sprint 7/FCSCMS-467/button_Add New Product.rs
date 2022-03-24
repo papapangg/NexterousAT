@@ -3,18 +3,22 @@
    <description></description>
    <name>button_Add New Product</name>
    <tag></tag>
-   <elementGuidId>27b58e36-9fb1-42c2-867d-c74f947cb818</elementGuidId>
+   <elementGuidId>27f9a2ad-2798-48ab-b6b2-c2e5c7cfcc2b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#b18-b1-ButtonBar > button.btn.btn-secondary.ThemeGrid_MarginGutter</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'Add New Product' or . = 'Add New Product')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[14]</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b18-b1-ButtonBar > button.btn.btn-secondary.ThemeGrid_MarginGutter</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

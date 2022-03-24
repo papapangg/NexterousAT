@@ -3,14 +3,15 @@
    <description></description>
    <name>ItemsGrid</name>
    <tag></tag>
-   <elementGuidId>d984af3f-203c-48ad-bb3f-7b5dcba4c990</elementGuidId>
+   <elementGuidId>b10ddf68-0867-42e4-b04d-a5e189092018</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>/html/body/div[1]/div/div/div/div/div/div/div/div[3]/div/div/span[1]/div/span[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

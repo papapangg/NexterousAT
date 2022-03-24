@@ -3,15 +3,15 @@
    <description></description>
    <name>textarea_Hazmat Description</name>
    <tag></tag>
-   <elementGuidId>4e10a81e-49d9-4dc5-a117-c970ab557963</elementGuidId>
+   <elementGuidId>5983c0d2-4834-482d-b865-b5c760996103</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b18-b23-TextArea_HazmatDescription</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//textarea[@id='b18-b23-TextArea_HazmatDescription']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b18-b23-TextArea_HazmatDescription</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

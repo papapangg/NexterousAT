@@ -3,15 +3,15 @@
    <description></description>
    <name>input_ of Skids</name>
    <tag></tag>
-   <elementGuidId>c86bf6df-41b9-447b-9890-4deef0d23243</elementGuidId>
+   <elementGuidId>3c5d0f04-73f2-4ad3-a2b9-1a9bdaf86181</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-Input_HashofSkids</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b3-Input_HashofSkids']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-Input_HashofSkids</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -3,10 +3,11 @@
    <description></description>
    <name>th_Contact Type</name>
    <tag></tag>
-   <elementGuidId>dd311165-9f41-43d3-88b1-964f10527be1</elementGuidId>
+   <elementGuidId>210716b3-1d31-4280-84e7-308a9b359e1b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>

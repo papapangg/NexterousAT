@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Search</name>
    <tag></tag>
-   <elementGuidId>7cbb00d6-b534-411d-9abf-3555b8b38396</elementGuidId>
+   <elementGuidId>9a67e269-21cd-47cb-ad86-961bf5de22ef</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

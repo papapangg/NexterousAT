@@ -3,15 +3,15 @@
    <description></description>
    <name>Add New Product_close(x)</name>
    <tag></tag>
-   <elementGuidId>3ab797a8-1e6f-48ac-a0ee-7ee60d5e48bc</elementGuidId>
+   <elementGuidId>7d5870e1-1e6f-4123-b11e-f7fbd365a8ee</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b18-b22-Column2 > div.text-align-right > a > i.icon.fa.fa-times.fa-2x</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='b18-b22-Column2']/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b18-b22-Column2 > div.text-align-right > a > i.icon.fa.fa-times.fa-2x</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

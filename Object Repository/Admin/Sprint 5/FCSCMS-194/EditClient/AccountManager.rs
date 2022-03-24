@@ -3,14 +3,15 @@
    <description></description>
    <name>AccountManager</name>
    <tag></tag>
-   <elementGuidId>adeefb74-af13-4d2c-b785-704e359010a7</elementGuidId>
+   <elementGuidId>a0d33a7d-01db-4e99-a500-5712b973d94c</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>/html/body/div[1]/div/div/div/div/div/div/div/div[3]/div/div[2]/div/div[2]/div/div[1]/div/div/div/div[1]/div[3]/div/div[2]/div/div/div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

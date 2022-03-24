@@ -3,15 +3,15 @@
    <description></description>
    <name>OriginContactName</name>
    <tag></tag>
-   <elementGuidId>0b1cf006-3edd-4544-b9c9-d6bce44d7de7</elementGuidId>
+   <elementGuidId>c37e1756-1be5-42e8-a533-3d3f09bc0695</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-OriginContactName</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b3-OriginContactName']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-OriginContactName</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

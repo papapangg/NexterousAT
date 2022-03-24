@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Add Address(Site)</name>
    <tag></tag>
-   <elementGuidId>fddba77f-d7e7-45ee-bf30-e5a30e76a93f</elementGuidId>
+   <elementGuidId>5b03fafa-5250-4b04-9bcb-8d70dab65c7b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

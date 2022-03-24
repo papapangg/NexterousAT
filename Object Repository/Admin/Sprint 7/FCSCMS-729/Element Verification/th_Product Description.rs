@@ -3,14 +3,15 @@
    <description></description>
    <name>th_Product Description</name>
    <tag></tag>
-   <elementGuidId>08b29de3-1747-4dcf-ad95-ffec497fcf53</elementGuidId>
+   <elementGuidId>93ac4981-9e4c-44b6-a9db-d6f76b008efd</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='b3-ClientProductsGrid']/div[3]/table/thead/tr/th[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

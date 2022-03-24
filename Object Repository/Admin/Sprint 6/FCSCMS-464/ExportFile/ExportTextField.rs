@@ -3,15 +3,15 @@
    <description></description>
    <name>ExportTextField</name>
    <tag></tag>
-   <elementGuidId>20465739-1f68-455b-8dae-d993834e3e19</elementGuidId>
+   <elementGuidId>7bfce094-1d35-4b20-9020-867fda3d178a</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b18-b14-b1-b1-Input_FileName</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b18-b14-b1-b1-Input_FileName']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b18-b14-b1-b1-Input_FileName</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

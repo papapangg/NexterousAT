@@ -3,15 +3,15 @@
    <description></description>
    <name>OriginLocationType</name>
    <tag></tag>
-   <elementGuidId>2e866151-528b-419a-882b-35388efc1116</elementGuidId>
+   <elementGuidId>d47bad55-84fb-4668-8ae2-a6d624ba9244</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-Dropdown1</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//select[@id='b3-Dropdown1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-Dropdown1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

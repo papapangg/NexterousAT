@@ -3,15 +3,15 @@
    <description></description>
    <name>StateDropDown</name>
    <tag></tag>
-   <elementGuidId>5fbba341-9f9f-486e-b0a1-24eda1d901b5</elementGuidId>
+   <elementGuidId>22ebc9d0-83de-4ee3-91a2-15e9a4445b28</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b7-state5 > div.choices > div.choices__inner</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='b7-state5']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b7-state5 > div.choices > div.choices__inner</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

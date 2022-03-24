@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Delete(Carriers)</name>
    <tag></tag>
-   <elementGuidId>f4adee13-9dd2-4333-8597-e4ffe8a50758</elementGuidId>
+   <elementGuidId>06d42c35-367c-4089-9675-3c1c092ccf38</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b16-b31-CarrierAssociationForm > div.margin-top-base.text-align-center > button.btn.btn-secondary.cancel-btn</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b16-b31-CarrierAssociationForm > div.margin-top-base.text-align-center > button.btn.btn-secondary.cancel-btn</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

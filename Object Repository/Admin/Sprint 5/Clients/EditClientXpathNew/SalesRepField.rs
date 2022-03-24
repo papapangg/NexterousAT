@@ -3,10 +3,11 @@
    <description></description>
    <name>SalesRepField</name>
    <tag></tag>
-   <elementGuidId>1a00ef02-410d-4e53-831f-848598574466</elementGuidId>
+   <elementGuidId>1eec7f76-5982-4ecd-822c-61850fe392c4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>

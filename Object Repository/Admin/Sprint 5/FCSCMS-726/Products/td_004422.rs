@@ -3,10 +3,11 @@
    <description></description>
    <name>td_004422</name>
    <tag></tag>
-   <elementGuidId>8f0f5f31-5d5c-4c6a-bea8-5f985c853a0f</elementGuidId>
+   <elementGuidId>990835b8-c972-4f5f-9400-76e8c6490584</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>

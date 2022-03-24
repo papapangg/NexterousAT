@@ -3,14 +3,15 @@
    <description></description>
    <name>CarrierName</name>
    <tag></tag>
-   <elementGuidId>9ce2825b-c8d9-42da-9258-ea66664e0bbc</elementGuidId>
+   <elementGuidId>68785a75-c4d4-4459-abfe-7885a652dadb</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='b16-$b6']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

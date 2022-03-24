@@ -3,15 +3,15 @@
    <description></description>
    <name>LTL_shipment</name>
    <tag></tag>
-   <elementGuidId>d5c6d99f-91f9-40d6-9c08-9faa4056a96c</elementGuidId>
+   <elementGuidId>466bfaa5-a7cf-48d2-a22d-0d7bcd53d171</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-RadioButton1-input</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b3-RadioButton1-input']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-RadioButton1-input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Add</name>
    <tag></tag>
-   <elementGuidId>06d26516-8c34-4e14-a9ab-ccba3db347dc</elementGuidId>
+   <elementGuidId>14a1ba21-01ae-494e-b5ee-65edffaf8ede</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>span > button.btn.btn-primary</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span > button.btn.btn-primary</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

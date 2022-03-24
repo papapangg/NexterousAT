@@ -3,10 +3,11 @@
    <description></description>
    <name>button_Remove item(IdentityWriter)</name>
    <tag></tag>
-   <elementGuidId>4f8ea85e-152e-458c-903d-cf6c7c525f0f</elementGuidId>
+   <elementGuidId>70de3d7a-344d-4372-b8c6-f5cd67169f4f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>

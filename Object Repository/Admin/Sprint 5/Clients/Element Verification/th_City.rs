@@ -3,10 +3,11 @@
    <description></description>
    <name>th_City</name>
    <tag></tag>
-   <elementGuidId>d4a266eb-a274-4bb0-8c1c-5a49d2ae6865</elementGuidId>
+   <elementGuidId>093c8b94-8073-4845-8e5b-116b87b6db16</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>

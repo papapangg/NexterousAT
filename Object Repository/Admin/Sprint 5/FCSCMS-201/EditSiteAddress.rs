@@ -3,7 +3,7 @@
    <description></description>
    <name>EditSiteAddress</name>
    <tag></tag>
-   <elementGuidId>3ddac989-9912-408b-a719-ba34ded54302</elementGuidId>
+   <elementGuidId>2bbc68aa-2a35-4660-a16e-4e85aee0e45f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

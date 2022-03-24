@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Cancel</name>
    <tag></tag>
-   <elementGuidId>68e5859d-a9c6-4bb8-8019-863f9899d57d</elementGuidId>
+   <elementGuidId>1b55242b-1eda-4231-9a86-07a8fd008161</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>button.btn.btn-secondary.cancel-btn.ThemeGrid_MarginGutter</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-secondary.cancel-btn.ThemeGrid_MarginGutter</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

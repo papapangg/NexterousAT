@@ -3,7 +3,7 @@
    <description></description>
    <name>ExportImage</name>
    <tag></tag>
-   <elementGuidId>9462e6a7-4f16-4627-9519-b0a9cfb42f37</elementGuidId>
+   <elementGuidId>678ede50-8832-4080-98bb-65b66177bd41</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

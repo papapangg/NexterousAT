@@ -3,7 +3,7 @@
    <description></description>
    <name>div_Values Reader</name>
    <tag></tag>
-   <elementGuidId>4654c3af-c8ea-4818-a660-096388932bc3</elementGuidId>
+   <elementGuidId>e06806c1-5ed8-4f65-b7df-5fddec9e3e65</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Yes(forCancel) NewXpath</name>
    <tag></tag>
-   <elementGuidId>74b9b3fc-45bc-4805-9154-3501e21c6e58</elementGuidId>
+   <elementGuidId>a342c8de-affe-40ae-9bb4-f42a3b1e07f1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

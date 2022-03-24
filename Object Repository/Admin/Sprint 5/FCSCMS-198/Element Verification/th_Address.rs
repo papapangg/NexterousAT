@@ -3,10 +3,11 @@
    <description></description>
    <name>th_Address</name>
    <tag></tag>
-   <elementGuidId>cf630b3c-d9ab-4245-a7b7-be0d68e5c480</elementGuidId>
+   <elementGuidId>331cc4e7-0fec-4738-8bc0-f0dedd8cb89f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>

@@ -3,7 +3,7 @@
    <description></description>
    <name>CityDropdown</name>
    <tag></tag>
-   <elementGuidId>83d7d56a-b98c-445e-9c2d-3b038c75d543</elementGuidId>
+   <elementGuidId>ed4a27bf-2413-4dac-aba8-99636b639815</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

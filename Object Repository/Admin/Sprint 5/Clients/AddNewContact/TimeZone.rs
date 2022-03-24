@@ -3,7 +3,7 @@
    <description></description>
    <name>TimeZone</name>
    <tag></tag>
-   <elementGuidId>59fa9f1f-8d04-4ee2-878a-cd82190eb96c</elementGuidId>
+   <elementGuidId>8440c8d0-07cf-4692-8f55-85d5bf85ac62</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

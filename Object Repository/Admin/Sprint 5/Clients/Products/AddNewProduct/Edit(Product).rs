@@ -3,7 +3,7 @@
    <description></description>
    <name>Edit(Product)</name>
    <tag></tag>
-   <elementGuidId>9cb9df1e-f55b-4600-b855-bb7670e6fa19</elementGuidId>
+   <elementGuidId>74d05f17-92be-42ec-891b-727a90f1bfc3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

@@ -3,7 +3,7 @@
    <description></description>
    <name>SearchField(Products)</name>
    <tag></tag>
-   <elementGuidId>9a286760-826d-43e1-a462-4115f7597a4e</elementGuidId>
+   <elementGuidId>c849cfe2-ae4b-4ed7-a463-14771d7c019e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

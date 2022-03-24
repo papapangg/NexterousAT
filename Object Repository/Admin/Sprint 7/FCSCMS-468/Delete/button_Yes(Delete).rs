@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Yes(Delete)</name>
    <tag></tag>
-   <elementGuidId>32551f30-5896-42ba-9ce5-d12545c739d1</elementGuidId>
+   <elementGuidId>39b2ef6d-4eee-4076-bd30-e1fa2845f4dd</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>button.btn.border-radius-rounded.secondary-Button</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>/html/body/div[3]/div/div/div/div/span[3]/div/button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.border-radius-rounded.secondary-Button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

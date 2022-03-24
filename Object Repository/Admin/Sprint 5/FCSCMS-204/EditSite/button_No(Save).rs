@@ -3,15 +3,15 @@
    <description></description>
    <name>button_No(Save)</name>
    <tag></tag>
-   <elementGuidId>9bbfca1f-534a-4915-bf05-686163f36ef4</elementGuidId>
+   <elementGuidId>ef55360a-ad12-4a65-bc1b-18d76028cd2f</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>button.btn.border-radius-rounded</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[17]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.border-radius-rounded</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

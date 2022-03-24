@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Yes(Save)</name>
    <tag></tag>
-   <elementGuidId>bb73b1ec-dc94-48b3-9f50-5301f7279615</elementGuidId>
+   <elementGuidId>cd2688d6-b993-4d2f-8468-b536c904cea5</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>button.btn.btn-Primary</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[16]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-Primary</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

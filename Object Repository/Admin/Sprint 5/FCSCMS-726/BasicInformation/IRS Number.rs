@@ -3,7 +3,7 @@
    <description></description>
    <name>IRS Number</name>
    <tag></tag>
-   <elementGuidId>9cfd53a8-5e7c-4151-b561-081ca5f70482</elementGuidId>
+   <elementGuidId>bec826d0-7ae9-48d1-a6a7-fe519ef49377</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

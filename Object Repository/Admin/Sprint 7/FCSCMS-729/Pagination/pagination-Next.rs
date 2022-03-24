@@ -3,15 +3,15 @@
    <description></description>
    <name>pagination-Next</name>
    <tag></tag>
-   <elementGuidId>99573a41-76f5-44f5-8727-217996bbcc8a</elementGuidId>
+   <elementGuidId>f6412c06-069c-49a2-99f8-4f696a499e72</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-b15-Next</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='b3-b15-Next']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-b15-Next</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

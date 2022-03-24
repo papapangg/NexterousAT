@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Contact Type_choices__input choices__input--cloned</name>
    <tag></tag>
-   <elementGuidId>606eae6e-5b1c-473b-b8df-3d57b9f54396</elementGuidId>
+   <elementGuidId>4313ceee-3d68-4954-9a24-907d4c9f5bff</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

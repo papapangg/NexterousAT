@@ -3,14 +3,15 @@
    <description></description>
    <name>div_UN Number</name>
    <tag></tag>
-   <elementGuidId>a68e8c90-0502-4684-89ea-1a646e3094e7</elementGuidId>
+   <elementGuidId>b4182882-47a1-45f3-9329-4c225f1f0020</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>/html/body/div[1]/div/div/div/div/div/div/div/div[3]/div/div[2]/div/div[2]/div/div[5]/div/div/div/span[1]/div/form/div[2]/div/div[3]/div/div/div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

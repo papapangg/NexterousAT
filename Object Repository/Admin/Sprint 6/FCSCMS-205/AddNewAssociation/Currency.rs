@@ -3,15 +3,15 @@
    <description></description>
    <name>Currency</name>
    <tag></tag>
-   <elementGuidId>87f94f1f-7190-491d-aebb-9f6987e7fa8b</elementGuidId>
+   <elementGuidId>2b002f1c-8d49-4f85-9ce2-11f9d3439448</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b16-b31-Dropdown4</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//select[@id='b16-b31-Dropdown4']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b16-b31-Dropdown4</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -3,15 +3,15 @@
    <description></description>
    <name>circle</name>
    <tag></tag>
-   <elementGuidId>d7102e44-d76f-4a7d-99d5-d3b593757f9b</elementGuidId>
+   <elementGuidId>1b3b39d3-52d1-469b-8689-5b6bfae9327f</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#Ellipse_1210-2 > circle</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>/html/body/div[3]/div/div/div/div/div/div[1]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Ellipse_1210-2 > circle</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

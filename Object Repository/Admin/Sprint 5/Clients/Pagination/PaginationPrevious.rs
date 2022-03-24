@@ -3,7 +3,7 @@
    <description></description>
    <name>PaginationPrevious</name>
    <tag></tag>
-   <elementGuidId>96561eb8-0a66-4b65-8c44-c35bf5357910</elementGuidId>
+   <elementGuidId>1fce2935-798a-46cc-9ea2-fa74cf710bda</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

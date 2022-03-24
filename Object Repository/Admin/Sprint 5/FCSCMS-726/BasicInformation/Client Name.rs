@@ -3,7 +3,7 @@
    <description></description>
    <name>Client Name</name>
    <tag></tag>
-   <elementGuidId>61c0879c-e950-4210-867a-3e2de8c44708</elementGuidId>
+   <elementGuidId>71271f6d-a355-4b81-ab4c-93386e5bb2aa</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

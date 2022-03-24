@@ -3,15 +3,15 @@
    <description></description>
    <name>ClientBOL</name>
    <tag></tag>
-   <elementGuidId>b1c3055c-c202-4ea2-8809-1c8835da04df</elementGuidId>
+   <elementGuidId>3f8b6332-4264-4d3d-95cd-5df284192c22</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b16-b31-Dropdown2</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//select[@id='b16-b31-Dropdown2']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b16-b31-Dropdown2</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

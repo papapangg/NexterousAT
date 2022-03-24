@@ -3,7 +3,7 @@
    <description></description>
    <name>NotificationModalWarning</name>
    <tag></tag>
-   <elementGuidId>2e1feb61-9f23-451e-adef-825e96ac6901</elementGuidId>
+   <elementGuidId>6a84dfc2-0f98-4814-93e6-d827f44bae27</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

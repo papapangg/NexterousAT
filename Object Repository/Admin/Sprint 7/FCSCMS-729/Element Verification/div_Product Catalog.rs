@@ -3,15 +3,15 @@
    <description></description>
    <name>div_Product Catalog</name>
    <tag></tag>
-   <elementGuidId>589021df-c673-4f7d-af81-63be61d39c6e</elementGuidId>
+   <elementGuidId>813e3eaf-7d81-4d0f-ae79-96f1bdfb7b21</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-ClientProductsGrid</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='b3-ClientProductsGrid']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-ClientProductsGrid</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

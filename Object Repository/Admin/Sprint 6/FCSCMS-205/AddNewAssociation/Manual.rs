@@ -3,15 +3,15 @@
    <description></description>
    <name>Manual</name>
    <tag></tag>
-   <elementGuidId>7ab8cd53-9eea-4e14-882e-232169f3da75</elementGuidId>
+   <elementGuidId>57b0fc72-256d-425d-8340-557ac33694be</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b16-b31-l1-274_0-Methods-input</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b16-b31-l1-274_0-Methods-input']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b16-b31-l1-274_0-Methods-input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

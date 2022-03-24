@@ -3,7 +3,7 @@
    <description></description>
    <name>SearchBar(Contacts)</name>
    <tag></tag>
-   <elementGuidId>112a4582-be16-43c9-8b15-bab4aa6b5c09</elementGuidId>
+   <elementGuidId>841be8c1-81ce-4835-a639-dcf1c892039d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

@@ -3,15 +3,15 @@
    <description></description>
    <name>ClientListDashboard</name>
    <tag></tag>
-   <elementGuidId>739c98eb-9f46-43cc-ae97-2133b588858d</elementGuidId>
+   <elementGuidId>47b4902a-df75-419c-91c1-fc53e734fdea</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#GridContainer</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>/html/body/div[1]/div/div/div/div/div/div/div/div[3]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#GridContainer</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

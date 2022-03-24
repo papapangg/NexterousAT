@@ -3,15 +3,15 @@
    <description></description>
    <name>Contacts Name</name>
    <tag></tag>
-   <elementGuidId>4e77717d-c721-4315-9c47-ea02e2ad2d4c</elementGuidId>
+   <elementGuidId>c7930a4b-bde8-4e6c-94a0-a299a803d1ee</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-b72-TextInput</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b3-b72-TextInput']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-b72-TextInput</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -3,7 +3,7 @@
    <description></description>
    <name>CarrierRadioButton</name>
    <tag></tag>
-   <elementGuidId>43665462-fab8-4bb7-82bc-7367ae659921</elementGuidId>
+   <elementGuidId>17b31caa-416d-4365-9a66-f915661eda62</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

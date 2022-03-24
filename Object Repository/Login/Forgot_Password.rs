@@ -3,15 +3,15 @@
    <description></description>
    <name>Forgot_Password</name>
    <tag></tag>
-   <elementGuidId>f88148da-4276-42fe-acc6-e8aacd995342</elementGuidId>
+   <elementGuidId>ad0bb7c2-711b-4240-ae5f-5d24b81e35ac</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>a > span.font-size-xs</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//form[@id='LoginForm']/div[3]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a > span.font-size-xs</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

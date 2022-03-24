@@ -3,15 +3,15 @@
    <description></description>
    <name>button_2(Pagination)</name>
    <tag></tag>
-   <elementGuidId>b08566cf-a6ab-4eab-ad81-5e2a133b5298</elementGuidId>
+   <elementGuidId>fd790ad4-c8d5-42da-8c25-07719d168cdf</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-b15-PaginationList > button.pagination-button</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-b15-PaginationList > button.pagination-button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

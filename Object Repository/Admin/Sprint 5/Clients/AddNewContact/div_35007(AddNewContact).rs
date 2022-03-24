@@ -3,7 +3,7 @@
    <description></description>
    <name>div_35007(AddNewContact)</name>
    <tag></tag>
-   <elementGuidId>49a8afa6-c25d-4e82-9fa0-149ead962a47</elementGuidId>
+   <elementGuidId>cbbe2abc-f53a-4ed5-acc0-b0f2c9286f81</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

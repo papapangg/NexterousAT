@@ -3,15 +3,15 @@
    <description></description>
    <name>Status</name>
    <tag></tag>
-   <elementGuidId>bec05a60-f376-4e45-ba04-57f58c31142a</elementGuidId>
+   <elementGuidId>de837a3d-76cf-4647-aaa8-976f310ed7ca</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b10-Dropdown_ClientName</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//select[@id='b10-Dropdown_ClientName']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b10-Dropdown_ClientName</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

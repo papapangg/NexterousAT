@@ -3,7 +3,7 @@
    <description></description>
    <name>div_Alabaster</name>
    <tag></tag>
-   <elementGuidId>0333f1ef-2d8c-40cb-a431-d4428e520cd8</elementGuidId>
+   <elementGuidId>dc2298ad-db3d-4f2b-8073-b95c31d25ba8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

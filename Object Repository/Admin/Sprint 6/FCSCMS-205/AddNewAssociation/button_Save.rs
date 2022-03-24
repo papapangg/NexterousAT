@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Save</name>
    <tag></tag>
-   <elementGuidId>634f8600-cac0-4b16-a634-a4b961038819</elementGuidId>
+   <elementGuidId>c88e96fd-753a-4a74-9523-f71b5fc37995</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b16-b31-CarrierAssociationForm > div.margin-top-base.text-align-center > button.btn.btn-primary.ThemeGrid_MarginGutter</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(//button[@type='submit'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b16-b31-CarrierAssociationForm > div.margin-top-base.text-align-center > button.btn.btn-primary.ThemeGrid_MarginGutter</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

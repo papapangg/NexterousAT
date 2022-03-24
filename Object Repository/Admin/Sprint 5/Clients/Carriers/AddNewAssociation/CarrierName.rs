@@ -3,10 +3,11 @@
    <description></description>
    <name>CarrierName</name>
    <tag></tag>
-   <elementGuidId>64ae09f0-33a6-49de-b9b9-617da25acfb1</elementGuidId>
+   <elementGuidId>f2290f17-6cfc-4146-806e-466cef885dcd</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>

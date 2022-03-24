@@ -3,7 +3,7 @@
    <description></description>
    <name>Address Line</name>
    <tag></tag>
-   <elementGuidId>f600a653-f6b5-4537-a15c-2e1f42ed46dd</elementGuidId>
+   <elementGuidId>faa0ae14-e99e-44c5-9ee0-d7efb455212b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

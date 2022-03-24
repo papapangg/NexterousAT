@@ -3,7 +3,7 @@
    <description></description>
    <name>div_City</name>
    <tag></tag>
-   <elementGuidId>21a2c97b-608b-42eb-aeea-2ec41f57152e</elementGuidId>
+   <elementGuidId>6596607f-fc9e-4581-9675-847f8f573e70</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

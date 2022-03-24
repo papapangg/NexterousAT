@@ -3,10 +3,11 @@
    <description></description>
    <name>AccountManager_Dropdown</name>
    <tag></tag>
-   <elementGuidId>891b95c3-d3bf-411b-a2f7-cc7483530eb1</elementGuidId>
+   <elementGuidId>7692f25a-e1c6-4d7f-8dff-501552590ab1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>

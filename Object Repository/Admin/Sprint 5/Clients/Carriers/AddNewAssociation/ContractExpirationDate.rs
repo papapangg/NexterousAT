@@ -3,7 +3,7 @@
    <description></description>
    <name>ContractExpirationDate</name>
    <tag></tag>
-   <elementGuidId>f493f017-0912-415c-87ad-b767d8ece538</elementGuidId>
+   <elementGuidId>699282a9-f35a-49c3-8897-63b527bc11d9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

@@ -3,15 +3,15 @@
    <description></description>
    <name>select_Class</name>
    <tag></tag>
-   <elementGuidId>4e1ed0d8-69ab-4ff8-92fe-ba2a98f2e28b</elementGuidId>
+   <elementGuidId>33dd3e1a-af7c-47d5-b3e3-0c6a5be3137f</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-DropdownProductClass</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//select[@id='b3-DropdownProductClass']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-DropdownProductClass</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

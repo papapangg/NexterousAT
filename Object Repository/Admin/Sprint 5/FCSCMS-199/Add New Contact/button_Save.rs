@@ -3,10 +3,11 @@
    <description></description>
    <name>button_Save</name>
    <tag></tag>
-   <elementGuidId>0103d14c-2e16-4981-a8f6-cbbe2b2beff4</elementGuidId>
+   <elementGuidId>025b0245-e4f8-43f9-b4c8-c4b953334ec8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>

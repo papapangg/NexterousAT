@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Clear</name>
    <tag></tag>
-   <elementGuidId>aac8d685-a64c-4c89-b9fa-472d842abe39</elementGuidId>
+   <elementGuidId>50b030ee-4f7c-42de-b207-74083efdd5a1</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>button.btn.btn-secondary.cancel-btn</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-secondary.cancel-btn</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

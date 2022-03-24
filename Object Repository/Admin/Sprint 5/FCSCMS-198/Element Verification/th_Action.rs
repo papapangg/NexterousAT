@@ -3,7 +3,7 @@
    <description></description>
    <name>th_Action</name>
    <tag></tag>
-   <elementGuidId>f0286522-78c2-403b-8d74-6070ace174c8</elementGuidId>
+   <elementGuidId>ecf2df4f-580f-4480-af68-0b1a171a134b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

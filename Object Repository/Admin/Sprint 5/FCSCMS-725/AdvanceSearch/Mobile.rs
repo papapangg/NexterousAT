@@ -3,7 +3,7 @@
    <description></description>
    <name>Mobile</name>
    <tag></tag>
-   <elementGuidId>f3be7379-dc13-455f-bd23-c63186141750</elementGuidId>
+   <elementGuidId>a6f9e5b4-da74-4812-a892-d3e3a565ce2e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

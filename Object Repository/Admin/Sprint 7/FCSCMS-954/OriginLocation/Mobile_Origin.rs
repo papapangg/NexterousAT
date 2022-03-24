@@ -3,15 +3,15 @@
    <description></description>
    <name>Mobile_Origin</name>
    <tag></tag>
-   <elementGuidId>93fc3b39-a508-4aa3-bb89-42ffd75f45c3</elementGuidId>
+   <elementGuidId>31574d2f-df43-417e-a526-10cde2f553a2</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-Input_Mobile_Origin</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b3-Input_Mobile_Origin']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-Input_Mobile_Origin</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

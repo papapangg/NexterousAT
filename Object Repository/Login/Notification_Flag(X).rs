@@ -3,15 +3,15 @@
    <description></description>
    <name>Notification_Flag(X)</name>
    <tag></tag>
-   <elementGuidId>5a5484ac-a9b6-427f-ba66-9136cd7aed5b</elementGuidId>
+   <elementGuidId>9965f04e-73fe-43e4-ad05-d7a7c39e42ee</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>div.feedback-message.feedback-message-error</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='feedbackMessageContainer']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.feedback-message.feedback-message-error</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

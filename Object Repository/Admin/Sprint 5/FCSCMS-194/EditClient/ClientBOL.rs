@@ -3,15 +3,15 @@
    <description></description>
    <name>ClientBOL</name>
    <tag></tag>
-   <elementGuidId>e4b54a06-1db5-46e2-8f73-f81ce29def5e</elementGuidId>
+   <elementGuidId>5eba984b-1d58-4abd-bbfe-2f3a1a382561</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b10-RadioButton1-input</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b10-RadioButton1-input']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b10-RadioButton1-input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

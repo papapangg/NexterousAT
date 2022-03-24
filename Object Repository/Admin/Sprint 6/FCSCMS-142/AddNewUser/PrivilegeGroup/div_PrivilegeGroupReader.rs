@@ -3,7 +3,7 @@
    <description></description>
    <name>div_PrivilegeGroupReader</name>
    <tag></tag>
-   <elementGuidId>4504b310-d3d6-4d49-bfde-83f3b864cc0b</elementGuidId>
+   <elementGuidId>88933286-1ca5-4df8-b970-749ec47b37c7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

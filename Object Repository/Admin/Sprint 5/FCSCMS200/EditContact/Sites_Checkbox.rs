@@ -3,7 +3,7 @@
    <description></description>
    <name>Sites_Checkbox</name>
    <tag></tag>
-   <elementGuidId>64d20e1b-15ff-4e34-a520-76e560b0a151</elementGuidId>
+   <elementGuidId>6e74c8b4-837c-4a44-b684-07013a198039</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

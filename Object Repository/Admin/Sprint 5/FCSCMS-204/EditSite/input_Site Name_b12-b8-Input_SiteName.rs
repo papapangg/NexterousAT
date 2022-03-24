@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Site Name_b12-b8-Input_SiteName</name>
    <tag></tag>
-   <elementGuidId>7b3c982d-6000-4a6c-923d-62e74b6c2a70</elementGuidId>
+   <elementGuidId>39169174-1d92-4501-838d-ea5cdcff157d</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b12-b8-Input_SiteName</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b12-b8-Input_SiteName']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b12-b8-Input_SiteName</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

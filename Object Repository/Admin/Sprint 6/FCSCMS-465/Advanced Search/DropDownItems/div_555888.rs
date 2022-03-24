@@ -3,15 +3,15 @@
    <description></description>
    <name>div_555888</name>
    <tag></tag>
-   <elementGuidId>00968512-4a89-4b78-b1c4-9960411e6f78</elementGuidId>
+   <elementGuidId>97e239d5-586a-4c9c-a205-3b1b63a7ebec</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#choices--b18-b5-DropdownSelect-item-choice-1</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='choices--b18-b5-DropdownSelect-item-choice-1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#choices--b18-b5-DropdownSelect-item-choice-1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

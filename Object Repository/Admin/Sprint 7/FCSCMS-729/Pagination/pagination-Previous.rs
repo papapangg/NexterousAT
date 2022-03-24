@@ -3,15 +3,15 @@
    <description></description>
    <name>pagination-Previous</name>
    <tag></tag>
-   <elementGuidId>59163853-fc33-4312-9071-8030be30c522</elementGuidId>
+   <elementGuidId>1e1dac1a-4089-4be2-8f91-79cce4d2caee</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-b15-Previous</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='b3-b15-Previous']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-b15-Previous</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

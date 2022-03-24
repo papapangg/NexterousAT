@@ -3,7 +3,7 @@
    <description></description>
    <name>ZipCodeDropdown</name>
    <tag></tag>
-   <elementGuidId>5786209c-c964-4c35-bf31-1e735dcb2476</elementGuidId>
+   <elementGuidId>27a6cabb-2cae-4af1-9ac4-1d8f39f83e43</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

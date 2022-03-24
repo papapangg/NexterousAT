@@ -3,7 +3,7 @@
    <description></description>
    <name>Edit_ImageNew</name>
    <tag></tag>
-   <elementGuidId>44c3de2b-2374-402c-9d1a-348a65402a4d</elementGuidId>
+   <elementGuidId>939e8bb4-f410-4564-bfa9-4527d7c09365</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

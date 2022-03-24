@@ -3,14 +3,15 @@
    <description></description>
    <name>SiteName</name>
    <tag></tag>
-   <elementGuidId>5d1ee364-df17-4c9e-bbb0-74510cfc1aa7</elementGuidId>
+   <elementGuidId>35c392f1-a382-466a-87d7-1f1316e735cd</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='b16-$b9']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

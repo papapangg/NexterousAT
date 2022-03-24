@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Yes(DeletePGN)</name>
    <tag></tag>
-   <elementGuidId>87353283-0cff-45b7-90db-a91cd1887751</elementGuidId>
+   <elementGuidId>75a05b72-722b-4d7c-8577-7b6cd3d64994</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>button.btn.btn-Primary</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[11]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-Primary</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

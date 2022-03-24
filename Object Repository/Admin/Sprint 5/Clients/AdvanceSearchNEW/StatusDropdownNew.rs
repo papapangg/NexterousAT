@@ -3,7 +3,7 @@
    <description></description>
    <name>StatusDropdownNew</name>
    <tag></tag>
-   <elementGuidId>2bd61c75-a1c7-4dee-a576-ca3e08052ab7</elementGuidId>
+   <elementGuidId>af2fb77a-122b-469f-99d3-499a30412631</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

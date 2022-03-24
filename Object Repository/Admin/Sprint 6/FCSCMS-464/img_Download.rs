@@ -3,15 +3,15 @@
    <description></description>
    <name>img_Download</name>
    <tag></tag>
-   <elementGuidId>175b0697-aa8f-4b32-abbf-09db78d62320</elementGuidId>
+   <elementGuidId>7c25b818-9509-4149-9350-377d4dc80a42</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>img[title=&quot;EXCEL&quot;]</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='b18-$b14']/div/div/div[2]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[title=&quot;EXCEL&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

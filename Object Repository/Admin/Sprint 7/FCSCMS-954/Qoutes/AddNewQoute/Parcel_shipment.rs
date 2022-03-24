@@ -3,15 +3,15 @@
    <description></description>
    <name>Parcel_shipment</name>
    <tag></tag>
-   <elementGuidId>f8b0b515-7735-41ca-bf82-335478afa4a3</elementGuidId>
+   <elementGuidId>01f06492-b70a-406c-8784-e0a9b45603b1</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-RadioButton2-input</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b3-RadioButton2-input']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-RadioButton2-input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

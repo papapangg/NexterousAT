@@ -3,15 +3,15 @@
    <description></description>
    <name>Contact Email</name>
    <tag></tag>
-   <elementGuidId>c2b98495-a3c9-44b7-8d52-1b4e59095d25</elementGuidId>
+   <elementGuidId>aa808b3c-ed58-4fcd-913e-45031c929854</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-Input_ContactEmail_Destination</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b3-Input_ContactEmail_Destination']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-Input_ContactEmail_Destination</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

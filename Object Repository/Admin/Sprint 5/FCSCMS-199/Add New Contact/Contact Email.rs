@@ -3,7 +3,7 @@
    <description></description>
    <name>Contact Email</name>
    <tag></tag>
-   <elementGuidId>20ce6716-8e88-40d9-b262-3b4df237f444</elementGuidId>
+   <elementGuidId>a2ab618c-4185-4796-b45a-bd0f880e78ef</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

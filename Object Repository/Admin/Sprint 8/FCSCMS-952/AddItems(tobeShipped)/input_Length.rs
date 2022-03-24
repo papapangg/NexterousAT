@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Length</name>
    <tag></tag>
-   <elementGuidId>f6d34fab-bae0-4d33-8167-56ac2f9d90ab</elementGuidId>
+   <elementGuidId>d4ef0b6f-73a8-4645-b711-4b8863a99350</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-Input_Length</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b3-Input_Length']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-Input_Length</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

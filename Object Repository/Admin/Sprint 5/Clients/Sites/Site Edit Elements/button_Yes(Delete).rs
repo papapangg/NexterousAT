@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Yes(Delete)</name>
    <tag></tag>
-   <elementGuidId>a5809619-43c7-4887-bdef-265bc0e6210a</elementGuidId>
+   <elementGuidId>efefaa1a-7a18-443f-aa48-0fa54c4a4b90</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>div.text-align-center.padding-top-s.padding-bottom-s > button.btn.btn-secondary.cancel-btn</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>/html/body/div[2]/div/div/div/div/span[3]/div/button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-align-center.padding-top-s.padding-bottom-s > button.btn.btn-secondary.cancel-btn</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -3,10 +3,11 @@
    <description></description>
    <name>Delete(ForEmail)</name>
    <tag></tag>
-   <elementGuidId>6d57a9d8-2dbb-464a-9d6e-1697c4e64c0c</elementGuidId>
+   <elementGuidId>306bd6e9-0450-4523-b73c-400bd809f5a7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>

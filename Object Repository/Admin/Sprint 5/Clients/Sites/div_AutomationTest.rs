@@ -3,7 +3,7 @@
    <description></description>
    <name>div_AutomationTest</name>
    <tag></tag>
-   <elementGuidId>eaf51ddb-24e1-4ee3-9132-a2e33c7647d9</elementGuidId>
+   <elementGuidId>4684ae2e-134f-4ccd-8fb4-8175c8f6bddf</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

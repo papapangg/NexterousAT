@@ -3,7 +3,7 @@
    <description></description>
    <name>SelectContactDropdown</name>
    <tag></tag>
-   <elementGuidId>b2289f8b-1094-4432-af40-a7b0426e78fd</elementGuidId>
+   <elementGuidId>ac06590f-42ea-4e36-86de-85d1812d0199</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

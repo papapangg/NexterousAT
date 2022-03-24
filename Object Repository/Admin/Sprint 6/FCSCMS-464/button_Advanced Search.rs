@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Advanced Search</name>
    <tag></tag>
-   <elementGuidId>9fcf0dd5-0ff8-4330-8e98-6e530952110d</elementGuidId>
+   <elementGuidId>6f0e0f29-a7dd-4d49-bf91-3761a0c4e2cd</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b18-b1-ButtonBar > button.btn.btn-secondary</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[13]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b18-b1-ButtonBar > button.btn.btn-secondary</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

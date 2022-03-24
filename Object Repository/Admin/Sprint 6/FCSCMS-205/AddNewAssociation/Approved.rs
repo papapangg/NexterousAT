@@ -3,15 +3,15 @@
    <description></description>
    <name>Approved</name>
    <tag></tag>
-   <elementGuidId>546c4660-d032-4689-b14f-9453a92b8236</elementGuidId>
+   <elementGuidId>90181d8a-98a6-438a-8db3-94c8535a9bf9</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b16-b31-l1-274_2-Methods-input</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b16-b31-l1-274_2-Methods-input']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b16-b31-l1-274_2-Methods-input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

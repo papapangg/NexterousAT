@@ -3,7 +3,7 @@
    <description></description>
    <name>Pricing</name>
    <tag></tag>
-   <elementGuidId>30d17672-e4fc-4b08-8e0f-e3c4114f069e</elementGuidId>
+   <elementGuidId>8f6c1b86-87ae-49c8-9a01-e1bed9ce08e2</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

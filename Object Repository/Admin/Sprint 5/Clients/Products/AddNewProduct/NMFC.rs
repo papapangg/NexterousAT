@@ -3,7 +3,7 @@
    <description></description>
    <name>NMFC</name>
    <tag></tag>
-   <elementGuidId>fc299577-1cc2-44ed-8488-05a5473b129b</elementGuidId>
+   <elementGuidId>8d34ca0f-835b-4ed5-83a8-1488a95b9bca</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

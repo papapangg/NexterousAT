@@ -3,15 +3,15 @@
    <description></description>
    <name>Flag_Notif_ExpirationDate</name>
    <tag></tag>
-   <elementGuidId>6f88bfc3-6a33-4d52-bf12-28c2631231e5</elementGuidId>
+   <elementGuidId>05caf6a2-47d5-4d4b-83fa-7e89052950a6</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>span.validation-message</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='b30-Input']/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.validation-message</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

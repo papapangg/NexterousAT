@@ -3,7 +3,7 @@
    <description></description>
    <name>EditContact</name>
    <tag></tag>
-   <elementGuidId>a3221050-ecc7-4a9f-8884-5bdff1efda3b</elementGuidId>
+   <elementGuidId>e307325e-c2c8-4a1d-ab46-501b524e0a2f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

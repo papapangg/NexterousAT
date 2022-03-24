@@ -3,7 +3,7 @@
    <description></description>
    <name>div_Products</name>
    <tag></tag>
-   <elementGuidId>78fd7e1a-61a3-4c5e-98fb-1b1879b35ef7</elementGuidId>
+   <elementGuidId>34256fae-3bc7-44a1-aa06-dc6176e086cc</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

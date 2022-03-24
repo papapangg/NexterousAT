@@ -3,10 +3,11 @@
    <description></description>
    <name>th_Country</name>
    <tag></tag>
-   <elementGuidId>0f6f84e3-be2f-46a3-a658-0efbecff972e</elementGuidId>
+   <elementGuidId>883ed48b-275c-49d7-8ccf-115ddcba7678</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>

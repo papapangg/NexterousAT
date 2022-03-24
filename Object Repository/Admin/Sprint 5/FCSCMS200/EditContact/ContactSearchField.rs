@@ -3,7 +3,7 @@
    <description></description>
    <name>ContactSearchField</name>
    <tag></tag>
-   <elementGuidId>30b08b0e-929b-4e05-8630-587d75c4f56e</elementGuidId>
+   <elementGuidId>a0cb724e-39cf-4732-b098-bcda43e6c44d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

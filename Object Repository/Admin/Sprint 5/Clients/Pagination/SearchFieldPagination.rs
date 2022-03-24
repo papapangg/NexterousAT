@@ -3,7 +3,7 @@
    <description></description>
    <name>SearchFieldPagination</name>
    <tag></tag>
-   <elementGuidId>9438fbab-e129-4c80-a3cf-970f53f211dd</elementGuidId>
+   <elementGuidId>85c85f4f-b898-49de-ad28-9e4a01450c5f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Add(AliasName)</name>
    <tag></tag>
-   <elementGuidId>9f2dab65-eb38-49b4-8ff1-955050b80c03</elementGuidId>
+   <elementGuidId>1a690a71-3470-49d2-ac7c-ac6e5681fff0</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>div.full-height.display-flex.align-items-flex-end > button.btn.btn-primary</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.full-height.display-flex.align-items-flex-end > button.btn.btn-primary</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

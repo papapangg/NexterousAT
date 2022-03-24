@@ -3,7 +3,7 @@
    <description></description>
    <name>BusinessStartTime</name>
    <tag></tag>
-   <elementGuidId>c3631655-3c8d-4ab1-85af-592a64407847</elementGuidId>
+   <elementGuidId>cb71f428-2210-4adc-b361-2ff560825afa</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

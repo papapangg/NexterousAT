@@ -3,15 +3,15 @@
    <description></description>
    <name>Country</name>
    <tag></tag>
-   <elementGuidId>49e96abd-bcf5-433c-955a-65275ce2991a</elementGuidId>
+   <elementGuidId>4dc97a52-1469-4df6-8755-04437fef8f78</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-b51-Country2 > div.choices > div.choices__inner</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>/html/body/div[1]/div/div/div/div/div/div/div/div[3]/div/div/span[1]/div/span[1]/div/div[1]/div[3]/div[1]/div/div[3]/div/div[1]/div/div/form/span/div/div/form/div[2]/div/div/div[2]/div/div/div/div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-b51-Country2 > div.choices > div.choices__inner</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

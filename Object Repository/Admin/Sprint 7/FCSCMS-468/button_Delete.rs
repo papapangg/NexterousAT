@@ -3,18 +3,22 @@
    <description></description>
    <name>button_Delete</name>
    <tag></tag>
-   <elementGuidId>35bfd4b3-7790-4791-a1b8-ee381206a3ac</elementGuidId>
+   <elementGuidId>afeeff7a-7deb-45ca-b92c-88c7d36a7832</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.margin-top-s.text-align-center > button.btn.btn-secondary.cancel-btn</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'Delete' or . = 'Delete')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[5]</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.margin-top-s.text-align-center > button.btn.btn-secondary.cancel-btn</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

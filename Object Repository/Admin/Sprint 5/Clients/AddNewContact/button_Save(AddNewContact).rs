@@ -3,10 +3,11 @@
    <description></description>
    <name>button_Save(AddNewContact)</name>
    <tag></tag>
-   <elementGuidId>f8c38da5-694c-4918-bb71-608c16de6ed6</elementGuidId>
+   <elementGuidId>6b3d352b-9329-4229-bd36-1134f4bb34d4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>

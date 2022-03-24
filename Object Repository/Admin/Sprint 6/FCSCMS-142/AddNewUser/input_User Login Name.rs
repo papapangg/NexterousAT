@@ -3,7 +3,7 @@
    <description></description>
    <name>input_User Login Name</name>
    <tag></tag>
-   <elementGuidId>26b30c6a-453d-4cf0-8162-d3c7639d145b</elementGuidId>
+   <elementGuidId>5a6dfbc2-be4c-4c87-b5dc-f9167973ea02</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

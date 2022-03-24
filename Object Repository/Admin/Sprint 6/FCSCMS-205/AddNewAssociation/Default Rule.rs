@@ -3,15 +3,15 @@
    <description></description>
    <name>Default Rule</name>
    <tag></tag>
-   <elementGuidId>d761c19b-36bb-4ba5-9842-9fb553cd504c</elementGuidId>
+   <elementGuidId>4884b5e5-d015-42fe-9cd0-27d852e4d7dd</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b16-b31-TextArea_DefaultRule</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//textarea[@id='b16-b31-TextArea_DefaultRule']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b16-b31-TextArea_DefaultRule</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

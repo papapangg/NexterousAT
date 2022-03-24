@@ -3,7 +3,7 @@
    <description></description>
    <name>EditIcon(FCSCMS200)</name>
    <tag></tag>
-   <elementGuidId>de385633-b826-4037-9073-7716861408e5</elementGuidId>
+   <elementGuidId>5c66b01c-0692-4cd1-9d32-fb79ccc8617c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

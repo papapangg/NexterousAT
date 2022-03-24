@@ -3,10 +3,11 @@
    <description></description>
    <name>button_Cancel</name>
    <tag></tag>
-   <elementGuidId>107f7f51-c485-400a-9918-bb1a31694479</elementGuidId>
+   <elementGuidId>1edd7ede-344b-4d9e-9d74-c42fd0873c85</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>

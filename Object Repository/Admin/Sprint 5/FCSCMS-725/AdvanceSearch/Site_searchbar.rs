@@ -3,7 +3,7 @@
    <description></description>
    <name>Site_searchbar</name>
    <tag></tag>
-   <elementGuidId>ad8a8618-c3cb-4420-9dde-1981e77290fe</elementGuidId>
+   <elementGuidId>8e4ee778-3fda-4bc8-9c47-7d2a4284bb2b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

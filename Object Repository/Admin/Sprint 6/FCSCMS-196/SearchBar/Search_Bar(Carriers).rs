@@ -3,15 +3,15 @@
    <description></description>
    <name>Search_Bar(Carriers)</name>
    <tag></tag>
-   <elementGuidId>e0edd85b-e28c-4cf2-9a1c-2e28eaf953a5</elementGuidId>
+   <elementGuidId>f02b267f-c430-44a5-88ff-c54bfbba67e5</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b16-b2-Input_TextVar</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b16-b2-Input_TextVar']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b16-b2-Input_TextVar</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

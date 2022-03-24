@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Search</name>
    <tag></tag>
-   <elementGuidId>0863c1c8-9efd-4a12-b656-ee9a8cec970f</elementGuidId>
+   <elementGuidId>0a0f9fe8-95b4-4eb3-8e3f-ce705c8354e0</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>div.margin-top-s.margin-bottom-s.text-align-center.position-relative > button.btn.btn-primary.ThemeGrid_MarginGutter</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(//button[@type='submit'])[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.margin-top-s.margin-bottom-s.text-align-center.position-relative > button.btn.btn-primary.ThemeGrid_MarginGutter</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

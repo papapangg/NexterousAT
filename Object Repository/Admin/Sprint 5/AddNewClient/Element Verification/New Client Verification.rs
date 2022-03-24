@@ -3,7 +3,7 @@
    <description></description>
    <name>New Client Verification</name>
    <tag></tag>
-   <elementGuidId>3de90edf-f346-40a0-a5b2-ba4d6c4eba4a</elementGuidId>
+   <elementGuidId>7dbfec4d-b56e-489c-b939-1448f8ee2f73</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

@@ -3,15 +3,15 @@
    <description></description>
    <name>input_UN  NA Number</name>
    <tag></tag>
-   <elementGuidId>f8fe9ab7-171e-44d1-818f-3fdf03181c71</elementGuidId>
+   <elementGuidId>546ca1f5-4d3b-4eba-a24f-b1a02645adb6</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b18-b23-Input_TextVar</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b18-b23-Input_TextVar']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b18-b23-Input_TextVar</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

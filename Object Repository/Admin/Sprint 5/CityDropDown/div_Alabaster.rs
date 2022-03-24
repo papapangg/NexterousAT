@@ -3,15 +3,15 @@
    <description></description>
    <name>div_Alabaster</name>
    <tag></tag>
-   <elementGuidId>1f02a5b4-3d84-4aa7-a2fd-a14e56d05011</elementGuidId>
+   <elementGuidId>91f3dd64-43d3-4454-b9d6-c294d51e0f43</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#choices--b7-b25-DropdownSelect-item-choice-1</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='choices--b7-b25-DropdownSelect-item-choice-1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#choices--b7-b25-DropdownSelect-item-choice-1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

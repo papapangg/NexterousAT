@@ -3,10 +3,11 @@
    <description></description>
    <name>td_Smoke Test 3</name>
    <tag></tag>
-   <elementGuidId>05b3c25c-7ed6-4361-8898-d5e237ee7b6e</elementGuidId>
+   <elementGuidId>92540210-f56f-41d9-8b10-8338bfc66f6d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>

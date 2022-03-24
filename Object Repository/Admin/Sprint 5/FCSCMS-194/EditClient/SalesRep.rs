@@ -3,14 +3,15 @@
    <description></description>
    <name>SalesRep</name>
    <tag></tag>
-   <elementGuidId>911a9718-46cd-4b1f-b9bf-ae1b096adb6e</elementGuidId>
+   <elementGuidId>36bfc5a8-c6d3-44f3-9af5-ee866c831b5c</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>/html/body/div[1]/div/div/div/div/div/div/div/div[3]/div/div[2]/div/div[2]/div/div[1]/div/div/div/div[1]/div[3]/div/div[1]/div/div/div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

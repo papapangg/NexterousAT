@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Add New Product</name>
    <tag></tag>
-   <elementGuidId>ee099d67-fb07-4559-8e46-af82ef158f05</elementGuidId>
+   <elementGuidId>04126c80-d493-4a35-9310-08196401aeca</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b18-b1-ButtonBar > button.btn.btn-secondary.ThemeGrid_MarginGutter</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[14]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b18-b1-ButtonBar > button.btn.btn-secondary.ThemeGrid_MarginGutter</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -3,15 +3,15 @@
    <description></description>
    <name>div_Carrier SCAC</name>
    <tag></tag>
-   <elementGuidId>3b502e2f-d84d-4e47-b3dd-aca658b2f9aa</elementGuidId>
+   <elementGuidId>21fcb9f6-147f-4d41-8991-15f4e2dac83f</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>div.choices.text-align-left > div.choices__inner</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>/html/body/div[1]/div/div/div/div/div/div/div/div[2]/div[5]/aside/div[2]/form/div[1]/div/div/div[1]/div/div/div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.choices.text-align-left > div.choices__inner</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

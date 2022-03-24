@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Account Manager_Input_AS_ClientName</name>
    <tag></tag>
-   <elementGuidId>5fffda8a-bf8e-4f8a-b25c-784c446d6ef0</elementGuidId>
+   <elementGuidId>6971c720-fb00-499c-8f48-0b23b1711532</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#Input_AS_ClientName</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='Input_AS_ClientName']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Input_AS_ClientName</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -3,7 +3,7 @@
    <description></description>
    <name>AssignSiteDropdown</name>
    <tag></tag>
-   <elementGuidId>0cac1be1-4b38-4a4f-a73a-7f6d6b23c29b</elementGuidId>
+   <elementGuidId>86dc7c51-a31d-4293-8e93-3e121bc89179</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

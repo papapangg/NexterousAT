@@ -3,15 +3,15 @@
    <description></description>
    <name>Inbound_Freight</name>
    <tag></tag>
-   <elementGuidId>66e42ed9-6ed4-4ef8-81b5-dacb0419e200</elementGuidId>
+   <elementGuidId>5f00b73f-5158-46be-a33a-fe26a5266ab7</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-RadioButton4-input</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b3-RadioButton4-input']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-RadioButton4-input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -3,7 +3,7 @@
    <description></description>
    <name>div_Basic Information</name>
    <tag></tag>
-   <elementGuidId>887cd181-9251-4cb6-8743-775ff37bcbfb</elementGuidId>
+   <elementGuidId>2260e7ea-8c5c-4401-930d-ab338ec01e1f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

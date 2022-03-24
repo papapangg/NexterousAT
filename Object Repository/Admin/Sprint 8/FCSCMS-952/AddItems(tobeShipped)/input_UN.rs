@@ -3,15 +3,15 @@
    <description></description>
    <name>input_UN</name>
    <tag></tag>
-   <elementGuidId>b824a8b0-3191-49f1-8e25-6b22af50b787</elementGuidId>
+   <elementGuidId>bf69d638-5291-49a0-aee9-a79e304aa524</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-Input_UN</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b3-Input_UN']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-Input_UN</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -3,7 +3,7 @@
    <description></description>
    <name>Product Code</name>
    <tag></tag>
-   <elementGuidId>1797466f-91ee-46f5-8473-b9d62b61ebb2</elementGuidId>
+   <elementGuidId>650a3b30-4ae6-4ea8-90ca-39e965a6c0f4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

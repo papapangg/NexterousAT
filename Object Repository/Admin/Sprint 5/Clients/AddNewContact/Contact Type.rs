@@ -3,7 +3,7 @@
    <description></description>
    <name>Contact Type</name>
    <tag></tag>
-   <elementGuidId>974ee302-dc0b-43cb-bfb0-eb081af3131e</elementGuidId>
+   <elementGuidId>439b4ff3-9b27-4a7c-b670-bf86b1743876</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

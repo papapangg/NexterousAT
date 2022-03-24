@@ -3,10 +3,11 @@
    <description></description>
    <name>button_Remove item(ContactsEdit)</name>
    <tag></tag>
-   <elementGuidId>e9442aa2-14ec-4f4b-ba4a-f02f88f2b2f4</elementGuidId>
+   <elementGuidId>f57b4aab-178f-4a44-9bed-e22406d10a28</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>

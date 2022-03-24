@@ -3,7 +3,7 @@
    <description></description>
    <name>CarriersDashboard</name>
    <tag></tag>
-   <elementGuidId>7add543a-5768-4fe6-a5fd-ca54ab869006</elementGuidId>
+   <elementGuidId>61a865b4-69e3-44a7-8bea-d8ac29a09848</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

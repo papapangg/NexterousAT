@@ -3,15 +3,15 @@
    <description></description>
    <name>Back_BTN(ForgotPassword)</name>
    <tag></tag>
-   <elementGuidId>9328ec06-b83f-4b47-919a-ea97fa68cb61</elementGuidId>
+   <elementGuidId>af064b9a-c414-47eb-9fa9-47c9fd57a202</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>img.width-35px</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='b2-Column1']/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.width-35px</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

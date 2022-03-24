@@ -3,15 +3,19 @@
    <description></description>
    <name>button_Save</name>
    <tag></tag>
-   <elementGuidId>edb9b5ef-a126-41b0-8ee4-8724f002331a</elementGuidId>
+   <elementGuidId>b497db6d-8499-453a-900a-a2daa84dfee1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.margin-top-s.text-align-center > button.btn.btn-primary.ThemeGrid_MarginGutter</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'submit' and (text() = 'Save' or . = 'Save')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='submit'])[3]</value>
+         <value>/html/body/div/div/div/div/div/div/div/div/div[2]/div[6]/aside/div[2]/span/div/div/form/div[5]/button[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.margin-top-s.text-align-center > button.btn.btn-primary.ThemeGrid_MarginGutter</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

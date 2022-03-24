@@ -3,7 +3,7 @@
    <description></description>
    <name>AddressName</name>
    <tag></tag>
-   <elementGuidId>16c8b232-43ab-4955-abc1-78c32cee82e2</elementGuidId>
+   <elementGuidId>01755f97-b14e-4a62-8f67-737b1f3f732a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

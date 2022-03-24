@@ -3,15 +3,15 @@
    <description></description>
    <name>Mobile_Destination</name>
    <tag></tag>
-   <elementGuidId>98a5d6fc-e94f-4a06-bd23-3e06d590b00b</elementGuidId>
+   <elementGuidId>4dacbae1-62da-4a28-86ae-2a6152f9565a</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-Input_Mobile_Destination</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b3-Input_Mobile_Destination']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-Input_Mobile_Destination</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

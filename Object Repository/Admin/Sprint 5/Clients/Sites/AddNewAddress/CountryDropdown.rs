@@ -3,7 +3,7 @@
    <description></description>
    <name>CountryDropdown</name>
    <tag></tag>
-   <elementGuidId>13e010d3-7f7d-4d72-9223-d15dafd98a6c</elementGuidId>
+   <elementGuidId>5eb2dc29-3d2f-4bac-8cd1-9b3ce618e195</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

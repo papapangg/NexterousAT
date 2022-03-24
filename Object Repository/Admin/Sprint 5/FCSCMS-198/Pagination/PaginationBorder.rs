@@ -3,7 +3,7 @@
    <description></description>
    <name>PaginationBorder</name>
    <tag></tag>
-   <elementGuidId>8f731f4f-42f0-48f0-960b-82ccc83b231c</elementGuidId>
+   <elementGuidId>b506105b-7455-4327-9361-dd1d02164e4e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

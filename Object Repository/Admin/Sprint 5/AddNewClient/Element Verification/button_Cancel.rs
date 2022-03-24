@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Cancel</name>
    <tag></tag>
-   <elementGuidId>80a85cae-1542-412e-ab95-f74d0c4591bf</elementGuidId>
+   <elementGuidId>f93beb1d-4e89-4def-9e3f-069eb70432ea</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

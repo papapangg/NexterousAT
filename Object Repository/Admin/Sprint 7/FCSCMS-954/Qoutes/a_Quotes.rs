@@ -3,15 +3,15 @@
    <description></description>
    <name>a_Quotes</name>
    <tag></tag>
-   <elementGuidId>d1d6be7b-4e89-4688-a01b-e9f9423f8a26</elementGuidId>
+   <elementGuidId>0af350af-58b9-427f-83b7-806cdb52cdde</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b2-l1-240_5-MenuItem</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>/html/body/div[1]/div/div/div/div/aside/div/div/nav/div[3]/div/div[1]/span[6]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b2-l1-240_5-MenuItem</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

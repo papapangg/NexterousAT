@@ -3,18 +3,22 @@
    <description></description>
    <name>button_No(Delete)</name>
    <tag></tag>
-   <elementGuidId>cdd2fd89-811a-4751-a778-8d2895ab4cc1</elementGuidId>
+   <elementGuidId>f43e11f2-533a-4e7c-a88d-12283e424d56</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.btn.btn-Primary</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'No' or . = 'No')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>/html/body/div[3]/div/div/div/div/span[3]/div/button[2]</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-Primary</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

@@ -3,7 +3,7 @@
    <description></description>
    <name>BusinessEndTime</name>
    <tag></tag>
-   <elementGuidId>cba2535e-7b8e-452a-afc5-5645287442f3</elementGuidId>
+   <elementGuidId>f8f80c7f-eb57-41c5-b4b9-29cd3b1763fa</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

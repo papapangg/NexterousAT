@@ -3,7 +3,7 @@
    <description></description>
    <name>select_SelectUSDEURCAD</name>
    <tag></tag>
-   <elementGuidId>03b6a036-f095-4ecd-a622-e2218c4dd238</elementGuidId>
+   <elementGuidId>fd2d052c-7ba2-4c65-81ff-de16f5f9f70d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

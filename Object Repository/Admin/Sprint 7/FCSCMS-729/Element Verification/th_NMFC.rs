@@ -3,14 +3,15 @@
    <description></description>
    <name>th_NMFC</name>
    <tag></tag>
-   <elementGuidId>0938b0c3-293b-4c11-b862-ab05c9b9bf1b</elementGuidId>
+   <elementGuidId>f2b059d5-bc44-43bc-84c7-9dab5cfeae5d</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='b3-ClientProductsGrid']/div[3]/table/thead/tr/th[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

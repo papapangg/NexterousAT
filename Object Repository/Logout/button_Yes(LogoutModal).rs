@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Yes(LogoutModal)</name>
    <tag></tag>
-   <elementGuidId>27ceea0c-002c-401a-97d0-25189e380c7f</elementGuidId>
+   <elementGuidId>21fefbee-7a52-4fd0-b441-93696911d43e</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>button.btn.btn-Primary</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-Primary</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -3,7 +3,7 @@
    <description></description>
    <name>ClientRadioButton</name>
    <tag></tag>
-   <elementGuidId>a20e5f6f-4137-486d-ba3b-7c7dad3ec436</elementGuidId>
+   <elementGuidId>343170a4-d043-4f55-be84-4c54b1ee7aa5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

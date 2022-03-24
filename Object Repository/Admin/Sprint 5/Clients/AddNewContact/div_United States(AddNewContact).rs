@@ -3,7 +3,7 @@
    <description></description>
    <name>div_United States(AddNewContact)</name>
    <tag></tag>
-   <elementGuidId>7d68ff6d-f382-4e42-95f4-17c9aca74197</elementGuidId>
+   <elementGuidId>f19b42be-30bf-4287-bc58-11732bdebfea</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

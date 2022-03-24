@@ -3,15 +3,15 @@
    <description></description>
    <name>input_NMFC</name>
    <tag></tag>
-   <elementGuidId>8fed3553-e100-46da-a185-eedfa3176a4b</elementGuidId>
+   <elementGuidId>9041129c-b3a7-4ecd-8a5f-d14c22a4efe4</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-Input_NMFC</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b3-Input_NMFC']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-Input_NMFC</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

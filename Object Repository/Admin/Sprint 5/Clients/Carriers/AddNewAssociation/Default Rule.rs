@@ -3,7 +3,7 @@
    <description></description>
    <name>Default Rule</name>
    <tag></tag>
-   <elementGuidId>02cc40fa-5033-48d5-8227-1f876320e9aa</elementGuidId>
+   <elementGuidId>e7dc629a-a036-40e1-a42d-b94cebff0087</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

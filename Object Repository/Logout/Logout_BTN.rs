@@ -3,15 +3,15 @@
    <description></description>
    <name>Logout_BTN</name>
    <tag></tag>
-   <elementGuidId>5156a8da-495f-4eab-bced-7949bf0b4cdc</elementGuidId>
+   <elementGuidId>d7b702b8-530f-4e15-af63-4e9cbd6d4f98</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>span.icon.margin-left-xs</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='b1-b3-b2-Items']/div[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.icon.margin-left-xs</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

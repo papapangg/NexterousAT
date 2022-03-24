@@ -3,7 +3,7 @@
    <description></description>
    <name>div_Invoicing</name>
    <tag></tag>
-   <elementGuidId>e5192bf7-9dc2-42ea-b7a5-46e05fcd6071</elementGuidId>
+   <elementGuidId>317fd1f6-8a84-4884-8a18-8dec0fa42124</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

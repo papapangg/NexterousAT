@@ -3,15 +3,15 @@
    <description></description>
    <name>Drop_Freight</name>
    <tag></tag>
-   <elementGuidId>51526abe-a42f-4612-abd2-d4473fce6af2</elementGuidId>
+   <elementGuidId>d9715386-53a1-45fb-8da4-92783c730663</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-RadioButton6-input</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b3-RadioButton6-input']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-RadioButton6-input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

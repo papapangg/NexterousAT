@@ -3,7 +3,7 @@
    <description></description>
    <name>Pagination_Widget</name>
    <tag></tag>
-   <elementGuidId>d6ad78fc-986a-4d9b-af3d-770d2538ce0c</elementGuidId>
+   <elementGuidId>e7707441-f11a-403f-ad5b-00dc516ed9fa</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

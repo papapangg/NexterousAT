@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Delete</name>
    <tag></tag>
-   <elementGuidId>4552b5ee-b86a-4d88-b6aa-1643c6b0f037</elementGuidId>
+   <elementGuidId>b087f7d3-12ff-411d-9a29-9f72844e89c3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

@@ -3,15 +3,15 @@
    <description></description>
    <name>Close(x)_Edit</name>
    <tag></tag>
-   <elementGuidId>1edbada2-ed5f-4da4-bd23-493c3bf574ab</elementGuidId>
+   <elementGuidId>24f17f2b-27ed-4742-be88-693a55dfec86</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div/div/div/div/div/div/div[2]/div[3]/aside/div[1]/div/div/div[2]/div/a/i</value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value>i.icon.fa.fa-times.fa-2x</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='b3-b22-Column2']/div/a/i</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

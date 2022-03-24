@@ -3,15 +3,15 @@
    <description></description>
    <name>input_English</name>
    <tag></tag>
-   <elementGuidId>d9f408d3-85fc-4618-ba61-4f0544f4f454</elementGuidId>
+   <elementGuidId>88338454-aa92-403d-9a4b-3eeeafd64b4a</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-RadioButton_English-input</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b3-RadioButton_English-input']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-RadioButton_English-input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

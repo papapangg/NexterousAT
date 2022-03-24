@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Add New Contact</name>
    <tag></tag>
-   <elementGuidId>ee627bb0-3dfc-4372-a174-3c6e2c78f4ec</elementGuidId>
+   <elementGuidId>d7ad536f-3937-46ca-ac06-bbe2be3e6493</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

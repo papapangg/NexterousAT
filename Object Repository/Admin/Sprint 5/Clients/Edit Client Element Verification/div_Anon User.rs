@@ -3,10 +3,11 @@
    <description></description>
    <name>div_Anon User</name>
    <tag></tag>
-   <elementGuidId>22b3ea8c-9cc2-42fd-8410-1edda714be8e</elementGuidId>
+   <elementGuidId>2cf5caf3-c4e5-4ca8-af3c-11077c14e5d2</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>

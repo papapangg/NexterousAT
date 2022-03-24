@@ -3,7 +3,7 @@
    <description></description>
    <name>DeleteIcon(Contact)</name>
    <tag></tag>
-   <elementGuidId>17a8471c-83b5-4352-8192-8fc220008c0e</elementGuidId>
+   <elementGuidId>54116da0-180d-4621-851e-f335224ded93</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

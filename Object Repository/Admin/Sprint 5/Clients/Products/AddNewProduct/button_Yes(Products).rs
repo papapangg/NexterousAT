@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Yes(Products)</name>
    <tag></tag>
-   <elementGuidId>bc20160a-6de9-4f03-9476-46c208949790</elementGuidId>
+   <elementGuidId>17a09965-a8a1-4f89-a427-da6ec9722c16</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

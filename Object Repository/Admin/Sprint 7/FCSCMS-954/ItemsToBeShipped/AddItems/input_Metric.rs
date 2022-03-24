@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Metric</name>
    <tag></tag>
-   <elementGuidId>8f1115e6-f82a-4907-a70b-5ac22551806e</elementGuidId>
+   <elementGuidId>42e9b0e4-1a95-428c-83ba-47fa38cfbc58</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-RadioButton_Metric-input</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b3-RadioButton_Metric-input']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-RadioButton_Metric-input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

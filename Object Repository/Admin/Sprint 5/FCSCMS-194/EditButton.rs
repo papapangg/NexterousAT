@@ -3,15 +3,15 @@
    <description></description>
    <name>EditButton</name>
    <tag></tag>
-   <elementGuidId>93b99050-4e25-4b23-b3d5-0cbf0a720367</elementGuidId>
+   <elementGuidId>2e2b94bc-82f1-4b8f-b59d-9491f30ed72b</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>img.img-icon</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='GridContainer']/div[4]/table/tbody/tr/td/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.img-icon</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -3,14 +3,14 @@
    <description></description>
    <name>Country_Dropdown2</name>
    <tag></tag>
-   <elementGuidId>f41e6c35-c59c-4294-884e-b995ebb6368d</elementGuidId>
+   <elementGuidId>29a97b27-d7ed-4774-b8d7-76e790811800</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+      </entry>
       <entry>
          <key>CSS</key>
          <value>#b7-Country5 > div.choices > div.choices__inner</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

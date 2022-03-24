@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Hazmat Description</name>
    <tag></tag>
-   <elementGuidId>8cd1ef33-2c69-4e5a-b403-f7cb8d770f55</elementGuidId>
+   <elementGuidId>47bd2769-ad4c-443b-ac67-64c92fa3ab8b</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#b3-InputHazmatDescription</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='b3-InputHazmatDescription']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-InputHazmatDescription</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
